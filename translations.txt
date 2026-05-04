@@ -1,0 +1,746 @@
+1|||×|||Giấy chứng nhận bảo hiểm bắt buộc nên được lưu giữ tại nhà vì lý do an toàn.
+2|||○|||Đường là nơi công cộng, vì vậy khi lái xe ô tô không chỉ cần sự tiện lợi của bản thân mà còn cần quan tâm đến những người xung quanh.
+3|||○|||Dù chỉ là gửi email, nhưng không được thao tác điện thoại di động khi đang lái xe.
+4|||○|||Vì cảm thấy mệt mỏi và buồn ngủ nên đã kịp thời dừng xe và nghỉ ngơi.
+5|||○|||Khi lái xe ô tô hoặc xe gắn máy trên đường, phải có giấy phép lái xe phù hợp với loại xe đó.
+6|||○|||Giấy phép lái xe được chia thành ba loại: giấy phép loại một, giấy phép loại hai và giấy phép tạm thời.
+7|||○|||Người có giấy phép lái xe có điều kiện đeo kính, khi lái xe ô tô có thể đeo kính áp tròng.
+8|||○|||Xe gắn máy ba bánh cũng tồn tại.
+9|||○|||Nếu quên mang theo giấy phép lái xe mà lái xe máy thì sẽ bị coi là không mang giấy phép.
+10|||×|||Nếu có giấy phép lái xe máy thì có thể lái cả xe nông nghiệp đặc biệt nhỏ.
+11|||×|||Vì đã lấy được giấy phép lái tạm thời nên đã tự lái xe ô tô đi mua sắm một mình.
+12|||○|||Nếu có giấy phép lái xe đặc biệt lớn thì có thể lái cả xe gắn máy.
+13|||×|||Khi lái xe taxi, luôn cần giấy phép lái xe loại hai.
+14|||○|||Lái xe ô tô khi mang theo giấy phép đã hết hiệu lực sẽ bị coi là lái xe không có giấy phép.
+15|||○|||Khi chọn xe gắn máy, nên chọn loại mà khi ngồi lên, mũi chân hai chân chạm đất và có thể đẩy di chuyển bằng cách đi bộ theo hình số 8.
+16|||○|||Lái xe hai bánh khi đi giày dép xỏ hay giày cao gót là nguy hiểm.
+17|||○|||Khi ngồi trên xe gắn máy, nên đặt bàn chân lên bệ để chân.
+18|||○|||Khi ngồi trên xe hai bánh, nên kẹp nhẹ két nhiên liệu bằng hai đầu gối.
+19|||×|||Khi ngồi trên xe hai bánh, nên lái xe với trang phục tối màu để hòa mình vào môi trường xung quanh.
+20|||×|||Phanh của xe gắn máy không được có độ rơ.
+21|||×|||Dung lượng acquy không bị giảm nên không cần kiểm tra.
+22|||○|||Kiểm tra lượng dầu động cơ khi động cơ đã tắt.
+23|||×|||Phát hiện hỏng hóc ở cần lái nhưng vì đoạn đường ngắn nên vẫn lái tiếp.
+24|||○|||Xe gắn máy không bật đèn pha thì không được lái dù là ban ngày.
+25|||×|||Khi quay cua trên xe gắn máy, nên nghiêng xe về phía ngoài của đường cua.
+26|||○|||Xe gắn máy dễ mất thăng bằng và có nguy cơ ngã nên cần hết sức cẩn thận.
+27|||○|||Ngồi đúng tư thế khi lái xe gắn máy còn có tác dụng giảm mệt mỏi.
+28|||○|||Khi lái xe gắn máy, không nên nắm cần lái quá chặt.
+29|||×|||Kỹ thuật cần thiết để lái xe bốn bánh và xe hai bánh là hoàn toàn giống nhau.
+30|||○|||Khi phanh trên xe hai bánh, nếu cần lái không quay và bánh xe không nghiêng thì nên phanh cả phanh trước và phanh sau cùng lúc.
+31|||○|||Cần chú ý rằng khi sử dụng phanh trong khi đang quay cua trên xe gắn máy, lốp có thể trượt và có nguy cơ ngã.
+32|||○|||Tốc độ tối đa của xe gắn máy là 30 km/h.
+33|||×|||Khi quay cua trên xe gắn máy, nên tăng tốc trước, sau đó giảm tốc dần ở nửa sau của đường cua để ra khỏi cua.
+34|||×|||Khi chạy xe gắn máy, chỉ cần điều chỉnh tốc độ bằng phanh.
+35|||×|||Lực ly tâm tác dụng lên xe càng lớn khi bán kính đường cua càng lớn.
+36|||○|||Khi xuống dốc, do có trọng lực tác dụng nên xe có xu hướng tăng tốc.
+37|||○|||Đường sỏi có lực ma sát nhỏ hơn so với đường nhựa.
+38|||×|||Lực dùng để cố gắng dừng xe đang chạy được gọi là lực quán tính.
+39|||×|||Khi đâm vào tường bê tông với tốc độ 60 km/h, lực tác dụng tương đương với lực khi rơi từ độ cao khoảng 140 mét.
+40|||×|||Tốc độ tối đa trên đường có biển báo này là 40 km/h đối với tất cả các loại xe.
+41|||×|||Biển báo này cho thấy số làn đường đang giảm.
+42|||○|||Tại nơi có biển báo này, xe không được phép đi qua nhưng người đi bộ được phép đi qua.
+43|||×|||Biển báo này cho thấy con đường giao nhau phía trước là đường ưu tiên.
+44|||○|||Tại nơi có biển báo này, xe gắn máy cũng được phép đi qua.
+45|||×|||Biển báo này bao gồm 4 loại: biển báo cấm, biển hiệu lệnh, biển báo nguy hiểm và biển phụ.
+46|||○|||Tại nơi có biển báo này, quay đầu xe bị cấm nhưng lùi xe không bị cấm.
+47|||×|||Biển báo này cho thấy cấm vào do có công trình phía trước.
+48|||×|||Tại nơi có biển báo này, nếu cảm thấy nguy hiểm thì phải ngay lập tức bấm còi.
+49|||○|||Biển báo này cho thấy cấm xe có chiều rộng vượt quá số được hiển thị trên biển báo đi qua.
+50|||×|||Biển chỉ dẫn này thể hiện phần cấm đi vào, cho thấy xe không được đi qua.
+51|||○|||Tại nơi có biển chỉ dẫn này, có thể vượt từ A sang B bằng cách lấn ra ngoài, nhưng không được vượt từ B sang A bằng cách lấn ra ngoài.
+52|||○|||Biển chỉ dẫn này thể hiện cấm đỗ và dừng xe.
+53|||○|||Biển chỉ dẫn này cho thấy phía trước có vạch qua đường cho người đi bộ hoặc làn đường cho xe đạp.
+54|||×|||Tại nơi có biển chỉ dẫn này, cả quay đầu và lùi đều bị cấm.
+55|||○|||Ngay cả khi tín hiệu bên trái và bên phải là đỏ hoặc vàng, tín hiệu đối diện không nhất thiết là xanh.
+56|||×|||Vì tín hiệu đối diện đã chuyển sang xanh nên đã lập tức khởi hành.
+57|||○|||Ngay cả khi tín hiệu mũi tên vàng đối diện sáng lên, xe gắn máy không được phép khởi hành.
+58|||×|||Khi có tín hiệu vàng nhấp nháy, phải giảm tốc độ và tiến vào.
+59|||×|||Ngay cả khi tín hiệu mũi tên xanh cho rẽ phải, quay đầu xe vẫn bị cấm.
+60|||○|||Khi tín hiệu đèn giao thông và tín hiệu bằng tay khác nhau, phải tuân theo tín hiệu bằng tay.
+61|||×|||Tín hiệu đèn được vẫy ngang của cảnh sát đối diện có ý nghĩa tương đương với tín hiệu xanh của đèn giao thông.
+62|||×|||Khi cảnh sát giơ đèn lên cao, đối với giao thông song song với mặt trước của cơ thể cảnh sát, có ý nghĩa tương đương với tín hiệu đỏ của đèn giao thông.
+63|||○|||Tại nơi không phải giao lộ, không có vạch qua đường, làn đường xe đạp hay đường sắt, khi có tín hiệu bằng tay, vị trí dừng là cách cảnh sát 1 mét.
+64|||○|||Khi cảnh sát vẫy đèn theo hướng bắc-nam, xe chạy theo hướng đông-tây phải dừng lại.
+65|||×|||Khi mệt mỏi, quãng đường phanh sẽ dài hơn nên cần chú ý khi lái xe.
+66|||×|||Trên đường thường, tốc độ tối đa tạm thời khi vượt xe của xe gắn máy là 40 km/h.
+67|||○|||Khoảng cách an toàn giữa các xe gần như bằng quãng đường dừng.
+68|||×|||Xe gắn máy cần suy nghĩ về luồng giao thông trên đường và luôn chạy với tốc độ sát giới hạn tối đa là an toàn hơn về lâu dài.
+69|||×|||Trên đường nhựa khô ráo, xe gắn máy đang chạy 30 km/h cần giữ khoảng cách hơn 5 mét giữa các xe.
+70|||○|||Trên đường một chiều, xe có thể đi ở phía bên phải của đường.
+71|||×|||Khi xe gắn máy chạy trên đường có 3 làn trở lên cùng hướng, về nguyên tắc chọn làn đường ít xe còn lại để đi.
+72|||○|||Trên đường không có làn đường, xe gắn máy đi sát bên trái của đường.
+73|||○|||Mặc dù xe gắn máy có thể quay đầu nhỏ nhưng kể cả khi đường đông đúc, không được phép luồn lách giữa các xe.
+74|||×|||Khi vượt xe trên đường có tầm nhìn tốt với bề rộng phần bên trái dưới 6 mét, dù là đường có vạch trung tâm màu vàng, cũng được phép lấn ra bên phải của vạch trung tâm.
+75|||×|||Xe chỉ được đi qua an toàn khu vực khi không có người đi bộ.
+76|||○|||Khi tắt máy và đẩy xe gắn máy đi bộ, có thể đi trên vỉa hè hoặc làn đường bên.
+77|||×|||Người đi bộ chỉ có thể đi trên đường dành cho người đi bộ nếu có giấy phép và tuân thủ tốc độ pháp định.
+78|||×|||Các xe không phải xe đạp nhẹ không được đi trên vỉa hè.
+79|||×|||Trong mọi trường hợp, xe không được đi trong hay băng qua đường ray.
+80|||○|||Trong quá trình lái xe gắn máy, để tránh nguy hiểm mà bất đắc dĩ đi vào đường ray.
+81|||○|||Xe gắn máy khi băng qua để vào nơi tiếp giáp với đường, có thể đi trên vỉa hè hoặc làn đường bên.
+82|||○|||Xe gắn máy không thể đi trên đường dành cho ô tô.
+83|||×|||Xe gắn máy có thể đi trên đường có biển báo này.
+84|||○|||Khi tắt máy và đẩy xe gắn máy đi bộ, trừ khi đang kéo xe khác hoặc có xe bên cạnh, được coi là người đi bộ.
+85|||×|||Khi đi qua chỗ có người đi bộ, nhất định phải giảm tốc độ.
+86|||×|||Vì trên đường xe cơ giới có quyền ưu tiên, nên không cần nhường đường cho người đi bộ đang qua đường ở nơi không có vạch qua đường.
+87|||○|||Tại bến xe điện không có khu an toàn, khi có người lên xuống xe điện đang dừng, phải dừng lại phía sau và chờ.
+88|||○|||Khi xe đi qua bên cạnh khu an toàn, nếu không có người đi bộ thì không cần giảm tốc độ.
+89|||○|||Khi không có khu an toàn và không có người lên xuống, vì có khoảng cách hơn 1,5 mét với xe điện đang dừng ở bến nên đã giảm tốc độ để đi qua.
+90|||○|||Khi đi qua chỗ có xe đạp, thực hiện tương tự như khi đi qua chỗ có người đi bộ.
+91|||×|||Vì trên đường xe cơ giới có quyền ưu tiên nên không cần ưu tiên cho người đi bộ qua vạch qua đường.
+92|||○|||Khi qua đường trên vỉa hè, nhất định phải dừng lại một lần.
+93|||×|||Vì người đi bộ đang qua đường chậm rãi nên đã bấm còi để cảnh báo.
+94|||×|||Khi đi qua bên cạnh khu an toàn có người, nhất định phải dừng lại một lần.
+95|||×|||Vì người đang qua đường không nhận ra xe của mình nên đã bấm còi để cảnh báo.
+96|||×|||Vì có người đang chuẩn bị qua vạch qua đường nên đã giảm tốc độ.
+97|||×|||Khi đến gần vạch qua đường, dù có hay không có người qua đường, đều phải giảm tốc độ.
+98|||×|||Vì có xe tải dừng trước vạch qua đường không có người điều khiển giao thông nên để đảm bảo an toàn đã giảm tốc độ và đi qua bên cạnh xe tải.
+99|||○|||Khi đến gần vạch qua đường, người qua đường nhận ra xe và dừng lại, đã dừng lại một lần và nhường đường cho người đi qua.
+100|||×|||Cấm vượt hoặc đuổi kịp xe có dán nhãn này.
+101|||○|||Khi đi qua chỗ có người dắt chó dẫn đường, đã dừng lại một lần, xác nhận an toàn rồi mới đi qua.
+102|||○|||Khi đi qua bên cạnh xe buýt đưa đón học sinh/tre em đang dừng để lên xuống, dù không có người lên xuống cũng phải giảm tốc độ để đi qua.
+103|||○|||Biểu tượng này cho thấy có người bị khiếm thính đang lái xe.
+104|||○|||Trừ khi cần thiết để tránh nguy hiểm, không được cố tình ép xe có dán nhãn này hay chen vào phía trước.
+105|||○|||Khi xe gắn máy rẽ trái ở giao lộ, phải đi sát phía bên trái của đường càng xa càng tốt từ trước, và giảm tốc độ dọc theo mép giao lộ.
+106|||×|||Ở giao lộ có tầm nhìn kém, bất kể có tín hiệu đèn hay không đều phải giảm tốc độ.
+107|||×|||Nội tuyến là hiệu số quỹ đạo do bánh trước đi vào bên trong so với bánh sau khi xe quẹo.
+108|||×|||Nếu không rẽ phải hay rẽ trái, khi đi qua giao lộ không cần giảm tốc độ.
+109|||○|||Ở giao lộ có 3 làn một bên có người điều khiển giao thông, xe gắn máy thực hiện rẽ phải hai giai đoạn.
+110|||○|||Khi rẽ phải ở giao lộ, phải đi gần lên phía giữa đường từ trước rồi rẽ phải.
+111|||○|||Khi rẽ phải hay rẽ trái, nhất định phải giảm tốc độ.
+112|||○|||Biển báo này cho thấy xe gắn máy phải thực hiện rẽ phải hai giai đoạn.
+113|||○|||Khi rẽ phải ở giao lộ, dù đã vào giao lộ trước cũng không được rẽ phải trước xe đi thẳng.
+114|||×|||Xe đạp nhẹ có thể đi thẳng, rẽ trái hay rẽ phải ở giao lộ đường có 2 làn một bên khi có tín hiệu xanh.
+115|||○|||Ở giao lộ có độ rộng đường khác nhau như hình bên phải, xe B phải nhường xe gắn máy A đi trước.
+116|||○|||Ở giao lộ cùng độ rộng, không được cản trở xe đang đi từ phía bên trái.
+117|||○|||Ở giao lộ cùng độ rộng, khi xe điện đang đi thì không được cản trở xe điện bất kể từ bên phải hay trái.
+118|||○|||Ở giao lộ có biển báo này, dù đường mình đi là đường ưu tiên và tầm nhìn tốt cũng phải dừng lại một lần.
+119|||×|||Khi đường mình đang đi là đường ưu tiên, nếu giao lộ có tầm nhìn kém về hai bên thì phải giảm tốc độ.
+120|||○|||Xe hai bánh cũng có nội tuyến nên đặc biệt khi rẽ trái cần chú ý không cuốn người đi bộ hay xe đạp.
+121|||○|||Khi xe gắn máy rẽ phải, cần chú ý rằng xe đi thẳng có thể đi ra từ phía sau xe đối diện.
+122|||○|||Biển báo này cho thấy xe gắn máy không thể rẽ phải khi đi qua giao lộ.
+123|||○|||Không thể rẽ phải từ làn đường có biển chỉ dẫn này.
+124|||×|||Xe gắn máy phải đi ở làn đường ngoài cùng bên trái nên dù làn đường được chỉ định theo phân luồng, luôn đi ở làn đường ngoài cùng bên trái.
+125|||×|||Có thể đi thẳng trên làn đường có biển chỉ dẫn này.
+126|||○|||Tại nơi có biển báo này, xe chỉ có thể rẽ trái.
+127|||○|||Vì xe phía trước định đổi làn đường nên đã không cản trở xe đó.
+128|||×|||Khi đi qua giao lộ có biển báo này, xe gắn máy không thể đi thẳng.
+129|||×|||Đang đi trên làn đường được phân luồng theo hướng đi, xe ưu tiên đến gần phía sau nhưng đã tiếp tục đi mà không đổi làn đường.
+130|||×|||Gần giao lộ có xe ưu tiên đến gần nên đã dừng ở giữa giao lộ.
+131|||×|||Khi xe ưu tiên đến gần ở nơi khác ngoài gần giao lộ, phải đi sát bên trái của đường và dừng lại một lần.
+132|||×|||Gần giao lộ có xe ưu tiên đến gần nên đã đi sát bên trái và giảm tốc độ.
+133|||○|||Gần giao lộ có xe tuần tra đến gần nhưng không bật còi nên đã không nhường đường.
+134|||○|||Khi đang đi trên đường ngoài giao lộ và các khu vực lân cận, xe ưu tiên đến từ phía sau, trên đường một chiều thì đi sát bên trái hoặc phải để nhường đường.
+135|||×|||Trên làn ưu tiên xe buýt, xe thường phải nhường đường cho xe buýt tuyến, nhưng xe buýt đưa đón học sinh/tre em được miễn trừ nhường đường.
+136|||×|||Trên làn dành riêng cho xe buýt, xe gắn máy không được phép đi.
+137|||○|||Xe thường được phép đi trên đường có biển báo này.
+138|||○|||Xe buýt tuyến đang dừng ở bến có tín hiệu khởi hành nên đã nhường đường.
+139|||×|||Trên làn dành riêng cho xe buýt tuyến, xe gắn máy và xe nông nghiệp đặc biệt nhỏ cũng không được phép đi.
+140|||×|||Khi đổi làn đường, xác nhận an toàn sau khi bật xi nhan.
+141|||×|||Trên đường có làn đường được phân cách bằng vạch vàng, không được vượt vạch để đổi làn đường, nhưng nếu để rẽ phải hay rẽ trái thì được phép vượt vạch để đổi làn đường.
+142|||○|||Tại nơi có biển chỉ dẫn này, có thể đổi làn đường từ A sang B.
+143|||×|||Tại nơi có biển báo này, cũng không được phép băng qua để ra vào nơi tiếp giáp với đường bên trái.
+144|||×|||Tại nơi biển báo hay biển chỉ dẫn cấm băng qua hay quay đầu thì lùi xe cũng bị cấm.
+145|||○|||Tín hiệu xi nhan phải được tắt ngay khi hành động kết thúc.
+146|||×|||Khi rẽ trái hay chuyển làn sang trái, không thể bật xi nhan bằng tay phải.
+147|||○|||Tín hiệu giơ tay trái ngang ra là tín hiệu rẽ trái hay chuyển làn sang trái.
+148|||○|||Tín hiệu gập tay phải thẳng đứng lên trên là tín hiệu rẽ trái hay chuyển làn sang trái.
+149|||○|||Thời điểm bật xi nhan quay đầu là cách khoảng 30 mét trước khi quay đầu.
+150|||×|||Thời điểm bật xi nhan rẽ phải hay rẽ trái là khoảng 3 giây trước khi rẽ.
+151|||○|||Phương pháp bật xi nhan quay đầu giống như phương pháp bật xi nhan rẽ phải hay chuyển làn sang phải.
+152|||×|||Tín hiệu bằng tay khi giảm tốc, dừng xe và lùi xe là giống nhau.
+153|||○|||Khi giảm tốc, dừng xe hay lùi xe thì bật tín hiệu vào thời điểm đó là được.
+154|||×|||Có thể bỏ giữa chừng tín hiệu xi nhan rẽ phải hay rẽ trái.
+155|||×|||Việc đi ra phía trước xe đang đi mà không đổi hướng được gọi là vượt xe.
+156|||×|||Khi vượt xe, nên tiếp cận xe phía trước càng gần càng tốt rồi nhanh chóng đổi hướng.
+157|||×|||Khi vượt xe, vì phải tăng tốc nên có thể tạm thời vượt quá tốc độ tối đa quy định.
+158|||×|||Khi vượt xe, nhất định phải đi ở phía bên phải của xe phía trước.
+159|||×|||Khi vượt xe điện, luôn đi ở phía bên trái của nó.
+160|||○|||Dù có an toàn, khi xe phía trước đang vượt xe ô tô thì không được vượt xe đó.
+161|||○|||Ở nơi cấm vượt xe, việc vượt xe gắn máy cũng bị cấm.
+162|||×|||Dù xe phía trước định đổi làn sang phải, nếu an toàn thì được phép vượt.
+163|||×|||Khi xe phía trước định vượt xe gắn máy thì không được vượt xe đó.
+164|||×|||Trên đường một chiều không được vượt xe.
+165|||○|||Trên đường có biển chỉ dẫn này, được phép vượt bằng cách lấn ra làn bên phải.
+166|||○|||Khi vượt xe gần đỉnh dốc, xe lên dốc bị cấm vượt nhưng xe xuống dốc không bị cấm vượt.
+167|||○|||Ở đoạn dốc lên dốc thoải, không bị cấm vượt xe.
+168|||×|||Trong hầm, bất kể có làn đường hay không, không được vượt xe phía trước.
+169|||×|||Nếu xe của mình không đi trên đường ưu tiên, ở giao lộ và trong phạm vi 30 mét trước giao lộ, nếu xác nhận an toàn thì được phép vượt xe phía trước.
+170|||×|||Gần cổng trường học không được vượt xe.
+171|||○|||Trên đường có biển báo này, bản thân việc vượt xe bị cấm.
+172|||×|||Trong phạm vi vạch qua đường cho người đi bộ, làn đường xe đạp và 30 mét trước đó, vượt xe bị cấm nhưng đuổi kịp không bị cấm.
+173|||○|||Trong hầm không có làn đường, vượt xe bị cấm.
+174|||○|||Dù tầm nhìn tốt, vượt xe ở gần góc đường cong bị cấm.
+175|||×|||Đỗ xe là việc dừng xe trong thời gian ngắn không được coi là dừng xe.
+176|||×|||Nếu người lái xe ở trong xe thì dừng xe lâu cũng không bị coi là đỗ xe.
+177|||○|||Dừng xe 3 phút để bốc dỡ hàng hóa là dừng xe.
+178|||○|||Dừng xe để người lên xuống quá 5 phút là dừng xe.
+179|||○|||Nếu có thể lái xe ngay thì dù người lái xe tạm rời xe trong thời gian ngắn cũng là dừng xe.
+180|||×|||Tại nơi có biển báo này, về nguyên tắc không được dừng xe.
+181|||○|||Trong phạm vi 1 mét từ báo cháy, không được đỗ xe.
+182|||○|||Trong phạm vi 5 mét từ khu vực công trình đường bộ, đỗ xe bị cấm.
+183|||×|||Trong phạm vi 5 mét từ biển báo cứu hỏa hay biển nguồn nước cứu hỏa được chỉ định, không được dừng xe để người lên xuống.
+184|||○|||Trong phạm vi 3 mét từ lối ra vào bãi đỗ xe hay nhà để xe, đỗ xe bị cấm.
+185|||×|||Biển chỉ dẫn này thể hiện cấm đỗ và dừng xe.
+186|||×|||Gần giao lộ, nơi cấm đỗ và dừng xe là trong phạm vi 3 mét từ giao lộ và mép của nó.
+187|||×|||Trong hầm, ngoại trừ khi có làn đường, cấm đỗ và dừng xe.
+188|||○|||Trong phạm vi 10 mét từ bến xe buýt hay xe điện, về nguyên tắc cấm đỗ và dừng xe.
+189|||○|||Dù ngoài giờ xe điện chạy, đỗ và dừng xe trên đường ray vẫn bị cấm.
+190|||○|||Trên đường có làn bên rộng 1 mét với vạch trắng một đường, khi đỗ hay dừng xe phải vào trong làn bên và giữ khoảng trống hơn 0,75 mét.
+191|||×|||Khi đỗ xe máy, vì chỉ trong chốc lát nên đã để chìa khóa cắm sẵn.
+192|||○|||Xe gắn máy không có giấy chứng nhận车库.
+193|||○|||Về nguyên tắc, không được đỗ xe ở nơi có khoảng trống dưới 3,5 mét bên phải xe.
+194|||○|||Trên đường, về nguyên tắc, không được đỗ xe cùng một chỗ liên tục hơn 12 giờ vào ban ngày.
+195|||×|||Tại nơi có biển báo này, phải lái xe với tốc độ bằng khoảng một nửa đến một phần ba tốc độ pháp định.
+196|||○|||Gần đỉnh dốc lên dốc thoải và đoạn dốc xuống dốc đứng phải giảm tốc độ.
+197|||×|||Gần góc đường, ngoại trừ khi tầm nhìn tốt, phải giảm tốc độ.
+198|||×|||Khi đi qua giao lộ có tầm nhìn kém về hai bên, nhất định phải giảm tốc độ.
+199|||×|||Khi đi qua chỗ có người đi bộ, nhất định phải giảm tốc độ.
+200|||○|||Số người được phép chở trên xe gắn máy bao gồm cả người lái.
+201|||×|||Số người được phép chở trên xe gắn máy, đối với xe có ghế không phải cho người lái, là 2 người.
+202|||○|||Xe gắn máy có thể chở hàng nhô ra hai bên từ thùng xe tối đa 0,15 mét mỗi bên.
+203|||×|||Xe gắn máy có thể kéo tối đa 2 cái xe kéo.
+204|||○|||Lượng hàng có thể chở trên xe gắn máy là dưới 30 kg.
+205|||○|||Khi đi qua đường sắt có tầm nhìn tốt theo sau xe phía trước, cũng cần dừng lại một lần và xác nhận an toàn.
+206|||×|||Khi qua đường sắt, đi sát bên trái và đi qua liền một mạch.
+207|||×|||Ở đường sắt có gác chắn, nếu xác nhận an toàn thì không cần dừng lại một lần.
+208|||○|||Khi tín hiệu đèn tại đường sắt là màu xanh, nếu xác nhận an toàn thì không cần dừng lại một lần.
+209|||○|||Khi phía bên kia đường sắt đông đúc, không được đi vào để tránh bị mắc kẹt.
+210|||×|||Khi tránh nhau trên dốc, xe lên dốc nhường đường cho xe xuống dốc.
+211|||○|||Khi tránh nhau trên dốc, nếu một bên là vách núi thì xe ở phía vách núi dừng ở nơi an toàn và nhường đường cho xe đối diện.
+212|||×|||Khi tránh nhau ở dốc có chỗ tránh xe, xe xuống dốc vào chỗ tránh xe và nhường đường cho xe đối diện.
+213|||×|||Khi có vật cản ở một bên đường, khi tránh nhau thì xe ở phía đối diện với vật cản giảm tốc độ hoặc dừng lại để nhường đường cho xe đối diện.
+214|||×|||Khi có vật cản phía trước và có xe đối diện, dù khoảng cách đủ và tốc độ xe đối diện chậm, vẫn nên chờ xe đối diện rồi mới tránh vật cản.
+215|||×|||Vì xe phía trước khởi hành chậm nên đã bấm còi.
+216|||○|||Vì xe phía trước lao về phía mình nên bất đắc dĩ đã bấm còi.
+217|||×|||Tại nơi có biển báo này, nếu cảm thấy nguy hiểm thì phải bấm còi.
+218|||×|||Tại nơi có biển báo này, trong toàn bộ khu vực phải luôn bấm còi.
+219|||×|||Dù là để tránh nguy hiểm, việc sử dụng còi ở khu đô thị vẫn bị cấm.
+220|||×|||Khi lái xe ban đêm, xe lớn và xe hai bánh trông gần hơn thực tế nên cần chú ý.
+221|||×|||Khi lái xe ban đêm, nếu đường đủ sáng do đèn đường v.v. thì không cần bật đèn pha.
+222|||○|||Khi đi ban đêm ngay phía sau xe khác, phải chuyển đèn pha xuống chế độ thấp.
+223|||×|||Khi lái xe ban đêm, vì tầm nhìn kém và nguy hiểm nên nên đi gần xe phía trước để dễ thấy tín hiệu xi nhan của họ.
+224|||○|||Khi lái xe ban đêm, nên tránh mặc trang phục màu tối để lái xe.
+225|||×|||Ban đêm lượng xe trên đường ít hơn nên tăng tốc độ lái xe so với ban ngày sẽ tốt hơn.
+226|||○|||Khi tránh nhau ban đêm với xe đối diện, đèn của hai xe có thể khiến người đi bộ ở giữa đường khó nhìn thấy, cần chú ý.
+227|||×|||Bất kể tình trạng đường, khi lái xe ban ngày không cần bật đèn.
+228|||○|||Khi lái xe ban đêm đi qua giao lộ có tầm nhìn kém, nên chuyển đèn lên chế độ cao để báo hiệu xe mình đến gần.
+229|||×|||Khi lái xe ban đêm và có xe đối diện đến, đã bật đèn lên chế độ cao để báo hiệu sự hiện diện của mình.
+230|||○|||Khi lái xe ban đêm, vì tầm nhìn kém nên khoảng cách với xe phía trước nên giữ xa hơn ban ngày.
+231|||×|||Trên đường nhựa, cần chú ý rằng trời mưa đang đổ thì dễ trượt hơn so với đang mưa.
+232|||×|||Hiện tượng thủy lực là hiện tượng xe đang chạy nhanh bị trượt trên tuyết cứng.
+233|||○|||Khi chạy xe trên đường tuyết, nên đi theo vết xe của người khác.
+234|||○|||Khi xe hai bánh đi qua đường bùn, nên giảm tốc độ và giữ tốc độ ổn định để đi qua.
+235|||○|||Vì trời mưa mặt đường xấu và quãng đường phanh dài hơn nên đã giữ khoảng cách với xe phía trước xa hơn bình thường.
+236|||×|||Khi lái xe trong sương mù, để cải thiện tầm nhìn nên chuyển đèn pha lên chế độ cao.
+237|||○|||Vì trời mưa đất mềm nên trên đường núi không nên đi quá sát lề đường.
+238|||×|||Vì trời mưa dễ trượt nên khi dừng xe nên đạp phanh mạnh.
+239|||○|||Khi chạy qua vũng nước sâu, nước có thể vào tang phanh khiến phanh kém hiệu quả.
+240|||×|||Khác với xe thường, xe gắn máy không bị chết máy.
+241|||×|||Khi đang chạy mà phanh gấp khiến bánh sau trượt sang phải, nên quay cần lái sang trái.
+242|||○|||Phanh gấp khi trời mưa hay có tuyết dễ khiến bánh xe trượt ngang nên đặc biệt nguy hiểm.
+243|||×|||Khi lốp xe bị nổ khi đang chạy, vì nguy hiểm nên đạp phanh mạnh và cố gắng dừng xe càng nhanh càng tốt.
+244|||○|||Khi xuống dốc mà phanh không ăn, nên chuyển sang số thấp để dùng phanh động cơ và cố gắng dừng xe.
+245|||○|||Trong tai nạn giao thông, dù người bị thương nhẹ và có vẻ có thể giải quyết bằng thương lượng cũng phải gọi cảnh sát.
+246|||×|||Trong tai nạn giao thông, cần bảo toàn hiện trường tai nạn càng nhiều càng tốt để không cản trở điều tra.
+247|||○|||Khi động đất lớn xảy ra và bất đắc dĩ phải để xe gắn máy trên đường để trú ẩn, nên di chuyển đến nơi ngoài đường, tắt máy và khóa xe.
+248|||×|||Trong tai nạn giao thông, phải ngay lập tức cứu người bị thương.
+249|||×|||Khi cứu người bị thương ở đầu, để tránh mất ý thức, nên lắc người họ.
+250|||×|||Trên đường không có làn đường, về nguyên tắc xe gắn máy đi ở phần gần giữa đường.
+251|||○|||Đã uống rượu một lượng nhỏ nhưng không lái xe.
+252|||×|||Tai nạn giao thông chỉ ảnh hưởng đến người gây ra tai nạn.
+253|||×|||Trong phạm vi 30 mét trước và sau vạch qua đường cho người đi bộ và làn đường xe đạp là khu vực cấm vượt xe.
+254|||○|||Khi đến gần vạch qua đường, người qua đường nhận ra xe và dừng lại, đã dừng lại một lần và nhường đường cho người đó qua.
+255|||×|||Trách nhiệm hình sự khi xảy ra tai nạn do người lái xe chịu, nhưng trách nhiệm dân sự do công ty bảo hiểm chịu.
+256|||○|||Ngay cả ở nơi có biển báo cấm xe đi qua, vẫn có thể rẽ phải.
+257|||○|||Biển chỉ dẫn này là biển cấm đỗ xe.
+258|||○|||Ban đêm đã đỗ xe 6 giờ ở nơi không cấm đỗ.
+259|||×|||Mũ bảo hiểm khi lái xe gắn máy, dù là loại mũ công trình cũng được.
+260|||○|||Khi đang chạy xe gắn máy mà số vòng quay động cơ tăng cao không giảm, đã tắt công tắc điểm động cơ để dừng động cơ.
+261|||○|||Người có giấy phép thường chưa đầy 1 năm có nghĩa vụ gắn biển hiệu người mới lái.
+262|||×|||Tại nơi có biển báo này, xe bị cấm rẽ trái.
+263|||×|||Khi qua đường sắt, chỉ cần quan sát bằng mắt là đủ, không cần nghe.
+264|||○|||Dù xe phía trước định vượt xe gắn máy, cũng được phép vượt xe đó.
+265|||○|||Nếu dừng xe liên tục để chờ người thì đó là đỗ xe.
+266|||×|||Khi xe vượt xe khác, nếu có đủ khoảng trống bên trái xe phía trước thì được phép vượt từ bên trái.
+267|||×|||Khi đổi làn đường, xác nhận an toàn sau đó đổi làn đường.
+268|||×|||Ở giao lộ có 3 làn một bên có người điều khiển giao thông, xe gắn máy không thể rẽ phải.
+269|||○|||Tại đèn tín hiệu giao thông, tín hiệu mũi tên vàng chỉ dành cho xe điện, xe cơ giới và người đi bộ không thể đi.
+270|||○|||Khi đi qua góc đường, dù tầm nhìn tốt cũng đã giảm tốc độ.
+271|||○|||Hiện tượng thủy lực là hiện tượng dễ xảy ra khi trời mưa và chạy với tốc độ cao.
+272|||×|||Ngoài giờ xe điện chạy, đỗ và dừng xe trên đường ray không bị cấm.
+273|||○|||Tại đèn tín hiệu giao thông, tín hiệu mũi tên vàng chỉ dành cho xe điện.
+274|||×|||Giảm tốc độ là lái xe với tốc độ thấp hơn tốc độ hiện tại.
+275|||○|||Khi có tín hiệu đỏ nhấp nháy, xe nhất định phải dừng lại một lần.
+276|||○|||Không được chất hàng theo cách cản trở việc lái xe gắn máy.
+277|||×|||Ở giao lộ không có vạch qua đường, xe cơ giới có quyền ưu tiên hơn người đi bộ qua đường.
+278|||×|||Đã chở 1 trẻ em trên thùng xe gắn máy và lái xe.
+279|||×|||Vì đèn pha xe đối diện chói mắt, nhưng để làm quen mắt nên đã nhìn thẳng vào đèn và lái xe.
+280|||×|||Xe đạp nhẹ có thể đi thẳng, rẽ trái hay rẽ phải ở giao lộ đường có 2 làn một bên khi có tín hiệu xanh.
+281|||○|||Tại nơi có biển báo này, xe phải đỗ xiên so với mép đường.
+282|||○|||Đã gây tai nạn giao thông nên đã dừng xe ở nơi an toàn, sơ cứu người bị thương và thực hiện biện pháp phòng ngừa tai nạn tiếp theo, sau đó báo cảnh sát.
+283|||×|||Đèn pha dùng để chạy ban đêm nên không bao giờ bật vào ban ngày.
+284|||×|||Khi đang đi trên đường ngoài giao lộ và các khu vực lân cận mà xe ưu tiên đến từ phía sau, dù là đường một chiều cũng nhất định phải đi sát bên trái để nhường đường.
+285|||×|||Khi đâm vào tường bê tông với tốc độ 60 km/h, lực tác dụng tương đương với lực khi rơi từ độ cao khoảng 100 mét.
+286|||×|||Ở nơi cấm vượt xe, việc vượt xe đạp cũng bị cấm.
+287|||×|||Xe gắn máy chỉ được đi trên làn bên khi không có người đi bộ đang đi.
+288|||×|||Giới hạn tốc độ và giới hạn tải trọng đặc biệt không giúp ích cho việc phòng chống ô nhiễm giao thông.
+289|||×|||Nơi cấm đỗ và dừng xe gần đường sắt là trong phạm vi 5 mét trước và sau đường sắt.
+290|||×|||Khi cứu người bị thương ở đầu, để tránh mất ý thức, cần lắc người và nói chuyện với họ rất quan trọng.
+291|||×|||Khi có hai vạch kẻ đường ranh giới làn đường màu vàng và trắng liền, cả hai làn đường đều không thể đổi làn.
+292|||×|||Nếu đèn tín hiệu phía trước là xanh, dù đường đông đúc cũng luôn có thể đi vào giao lộ.
+293|||×|||Xe gắn máy thuộc loại xe đạp nên khi lái không cần đội mũ bảo hiểm.
+294|||×|||Khi bị mất giấy phép lái xe, chỉ được phép lái xe khi đã trình báo cảnh sát.
+295|||×|||Vì có biển báo này nên đang chạy 30 km/h, đã giảm xuống còn 25 km/h.
+296|||○|||Biển báo này cho thấy có trường học, nhà trẻ, vườn trẻ v.v.
+297|||×|||Khi qua vạch qua đường, nhất định phải dừng lại một lần.
+298|||×|||Xe đạp thường có thể đi vào giao lộ có biển chỉ dẫn này.
+299|||○|||Tín hiệu xi nhan quay đầu phát ra cách nơi thực hiện hành vi khoảng 30 mét.
+300|||×|||Khi rẽ phải, nếu đã vào giao lộ trước thì được ưu tiên hơn xe đi thẳng hay rẽ trái.
+301|||○|||Trên dốc dài xuống dốc, không nên dùng phanh liên tục mà cũng tận dụng phanh động cơ.
+302|||○|||Khi có vật cản phía trước, dù có xe đối diện nhưng nếu khoảng cách đủ và tốc độ xe đối diện chậm thì có thể tiến lên trước.
+303|||○|||Biển báo này cho thấy làn đường dành cho xe đạp hoặc đường xe đạp.
+304|||○|||Nơi cách mép giao lộ 10 mét, ngoại trừ khi có quy định khác bằng biển báo v.v., được phép đỗ và dừng xe.
+305|||○|||Khi đi qua chỗ có xe đang dừng, cần chú ý vì cửa xe có thể bất ngờ mở ra.
+306|||○|||Kể cả khi vừa qua đường sắt ngay sau khi rào chắn nâng lên, cũng phải dừng lại một lần và xác nhận an toàn trước khi khởi hành.
+307|||×|||Dù xe buýt tuyến có tín hiệu khởi hành, xe phía sau vẫn có thể giảm tốc độ để đi qua bên cạnh xe buýt.
+308|||×|||Nơi có biển chỉ dẫn này là phần cấm dừng, nhưng được phép đỗ xe.
+309|||○|||Biển báo này cho thấy khu an toàn.
+310|||○|||Khi gây tai nạn giao thông, đã dừng xe ở nơi an toàn, sơ cứu người bị thương và thực hiện biện pháp phòng ngừa tai nạn tiếp theo, báo cáo cảnh sát.
+311|||×|||Thời điểm bật xi nhan quay đầu là khoảng 3 giây trước khi quay đầu.
+312|||○|||Khi có thông báo cảnh báo động đất và bất đắc dĩ phải để xe trên đường để trú ẩn, nên đi sát bên trái của đường để dừng xe, tắt máy, không khóa cần lái và để chìa khóa trong xe.
+313|||○|||Trách nhiệm hình sự, dân sự và hành chính khi gây tai nạn đều do người lái xe chịu.
+314|||○|||Khi mệt mỏi, thao tác phanh chậm hơn nên quãng đường phản ứng sẽ dài hơn.
+315|||×|||Khi đổi làn đường, để không gây phiền cho xe khác, nên đổi làn càng sớm càng tốt sau khi bật xi nhan.
+316|||×|||Trên đường ít xe, không cần bật xi nhan.
+317|||○|||Biển báo này cho thấy khu an toàn và cấm xe đi qua.
+318|||×|||Tại nơi có biển chỉ dẫn này, xe thường chỉ được phép đi trên làn đường này khi đông đúc.
+319|||×|||Khi đang chạy mà hàng bị rơi, đã dừng xe ngay tại chỗ và nhanh chóng thu hàng.
+320|||○|||Xe rẽ phải hay rẽ trái ở giao lộ nhất định phải giảm tốc độ.
+321|||×|||Khi vượt xe phía trước, để tránh đâm trực diện với xe đối diện, bất đắc dĩ đã đi với khoảng cách bên hẹp với xe phía trước.
+322|||×|||Tại đèn tín hiệu giao thông, tín hiệu mũi tên vàng chỉ dành cho xe nhỏ.
+323|||○|||Gần đỉnh dốc lên, vì tầm nhìn kém nên bất kể có làn đường hay không đều phải giảm tốc độ.
+324|||○|||Vì lý do an toàn mà bất đắc dĩ đã đi trong đường ray.
+325|||○|||Tại nơi có biển báo này, dù là nơi cấm đỗ xe cũng được phép đỗ xe cho xe có biển.
+326|||×|||Dù không có biển báo yêu cầu bấm còi, khi qua giao lộ hay góc đường có tầm nhìn kém, vẫn phải bấm còi.
+327|||○|||Khi tránh nhau với xe đối diện hay đi ngay phía sau xe khác, chuyển đèn pha xuống chế độ thấp.
+328|||○|||Khi rẽ phải, dù đã vào giao lộ trước cũng không được cản trở xe đi thẳng hay rẽ trái.
+329|||×|||Có người đang qua vạch qua đường nhưng xe đến gần thì dừng lại nên đã tiếp tục đi.
+330|||○|||Khi qua đường sắt, chú ý xe đối diện và đi càng gần giữa càng tốt.
+331|||○|||Khi đang chạy mà hàng bị rơi, đã dừng xe ở nơi an toàn và nhanh chóng thu hàng sau khi cảnh báo xe phía sau.
+332|||×|||Khi cảnh sát giơ đèn lên cao trong giao lộ, đối với mọi hướng giao thông đều có ý nghĩa tương đương với tín hiệu đỏ.
+333|||○|||Ban đêm khi lái xe trên đường thường, dù phía trước nhìn rõ nhưng đã bật đèn.
+334|||×|||Trên làn dành riêng cho xe buýt tuyến, các xe khác xe buýt tuyến không được phép đi.
+335|||×|||Trong hầm, bất kể có làn đường hay không, vượt xe đều bị cấm.
+336|||×|||Việc đổi làn đột ngột gây phiền cho xe khác nên nên bắt đầu bật xi nhan từ 30 giây trước.
+337|||×|||Khi không có khu an toàn và không có người lên xuống, vì có khoảng cách hơn 1,5 mét với xe điện đang dừng ở bến nên đã tiếp tục đi.
+338|||×|||Ở giao lộ có tầm nhìn kém, đã dừng lại một lần và bấm còi để nhắc nhở rồi đi qua.
+339|||×|||Ở giao lộ cùng độ rộng không có người điều khiển giao thông, chỉ khi xe đến từ bên trái thì xe điện mới được ưu tiên.
+340|||○|||Quãng đường phanh sẽ gấp 4 lần khi tốc độ tăng gấp đôi.
+341|||○|||Vì xe phía trước định đổi làn sang phải để rẽ phải nên đã không vượt xe.
+342|||×|||Xe buýt tuyến đang dừng có tín hiệu khởi hành nên đã tăng tốc và vội vàng đi qua bên cạnh.
+343|||×|||Dù có nguy cơ đâm trực diện, cũng không được phép ra khỏi đường.
+344|||○|||Biển báo này cho thấy tốc độ tối thiểu là 30 km/h.
+345|||×|||Khi đến gần vạch qua đường, có xe dừng ngay trước vạch qua đường nhưng vì không thấy người qua đường nên đã giảm tốc độ để đi qua.
+346|||○|||Khi vượt xe phía trước, vì xe đó không nhận ra và định đổi làn sang phải nên đã cảm thấy nguy hiểm và bấm còi.
+347|||×|||Ở đường sắt có gác chắn có tầm nhìn tốt, nếu xác nhận an toàn có thể giảm tốc độ để đi qua.
+348|||○|||Khi đường mình đi là đường ưu tiên, dù giao lộ có tầm nhìn kém về hai bên cũng không cần giảm tốc độ.
+349|||○|||Biển báo được chia thành biển chính và biển phụ, biển chính được chia thành biển cấm, biển hiệu lệnh, biển nguy hiểm và biển hướng dẫn.
+350|||○|||Ở giao lộ cùng độ rộng không có người điều khiển giao thông, xe điện được ưu tiên bất kể đến từ hướng nào.
+351|||×|||Nếu có giấy phép lái xe đặc biệt nhỏ thì có thể lái xe gắn máy.
+352|||×|||Đang lái xe trên đường mà cảm thấy khỏe hơn nên đã sử dụng còi khi chạy.
+353|||○|||Khi tình cờ có mặt tại hiện trường tai nạn giao thông, nên tích cực hợp tác trong việc di chuyển phương tiện gây tai nạn và cứu người bị thương.
+354|||×|||Tốc độ tối đa của xe đặc biệt lớn trên đường thường là 50 km/h.
+355|||○|||Tại nơi có biển chỉ dẫn này, quay đầu bị cấm nhưng lùi xe không bị cấm.
+356|||×|||Chỉ khi đổi làn đường, quay đầu, lùi xe và không có xe đi lại khác mới không cần bật xi nhan.
+357|||○|||Khi có nguy cơ đâm trực diện, nếu bên ngoài đường an toàn thì có thể bất đắc dĩ ra khỏi đường.
+358|||○|||Chỉ xe đi trên đường ưu tiên được phép vượt xe ngay cả trong phạm vi 30 mét trước giao lộ.
+359|||○|||Việc đuổi kịp xe có dán biển người mới không bị cấm đặc biệt.
+360|||×|||Sau khi được cấp lại giấy phép lái xe, tìm thấy giấy phép bị mất nên đã tự giữ lại.
+361|||○|||Khi đi qua bên cạnh xe buýt đưa đón học sinh đang dừng, vì có nguy cơ người bất ngờ chạy ra từ sau xe buýt nên đã giảm tốc độ để đi qua.
+362|||×|||Ban đêm đi đường không thể nhìn xa nên nên nhìn ngay phía trước xe để lái xe.
+363|||○|||Sau khi vừa đi qua vũng nước sâu, phanh có thể kém hiệu quả nên cần kiểm tra hiệu quả phanh.
+364|||×|||Biển báo này cho thấy cấm rẽ phải.
+365|||○|||Để cải thiện sự ổn định của xe hai bánh, việc ngồi đúng tư thế là rất quan trọng.
+366|||×|||Khi kiểm tra lốp xe, chỉ cần kiểm tra áp suất lốp là đủ.
+367|||×|||Biển báo này cho thấy điểm bắt đầu đường một chiều.
+368|||○|||Giao lộ có biển báo này bị cấm đi thẳng.
+369|||×|||Khi mệt mỏi, thao tác phanh chậm hơn nên quãng đường phản ứng sẽ ngắn hơn.
+370|||×|||Khi giao lộ phía trước đông đúc, chỉ khi bất đắc dĩ mới được phép dừng trên vạch qua đường cho người đi bộ hoặc làn đường xe đạp.
+371|||×|||Tại nơi có vạch trung tâm này, cũng có thể lấn ra phần bên phải của đường để vượt xe.
+372|||×|||Khi đang đi cùng hướng mà đổi làn sang phải, bật xi nhan tại điểm cách nơi muốn đổi làn 30 mét.
+373|||○|||Ở giao lộ có biển báo này, xe gắn máy phải thực hiện rẽ phải hai giai đoạn.
+374|||×|||Ở giao lộ có biển báo dừng, khi đường giao nhau không có xe cũng chỉ cần giảm tốc độ để đi qua.
+375|||×|||Biển chỉ dẫn này cho thấy có giao lộ phía trước.
+376|||×|||Trong phạm vi 30 mét trước và sau giao lộ, không được vượt xe phía trước.
+377|||○|||Không thể đi thẳng trên làn đường có biển chỉ dẫn này.
+378|||○|||Đèn tín hiệu ở giao lộ là xanh nhưng cảnh sát có tín hiệu dừng nên đã dừng.
+379|||○|||Tại nơi có vạch trung tâm này, có thể lấn từ A sang B để vượt nhưng không thể lấn từ B sang A để vượt.
+380|||○|||Trước khi lên xe, cần kiểm tra xem có người nào ở trước, sau hay dưới xe không.
+381|||○|||Khi có biển báo này, xe gắn máy rẽ phải bằng phương pháp giống ô tô thay vì rẽ phải hai giai đoạn.
+382|||×|||Khi qua đường trên vỉa hè, chỉ khi có người đi bộ mới cần dừng lại một lần và xác nhận an toàn.
+383|||×|||Nếu đèn tín hiệu phía trước là xanh thì phải lập tức khởi hành.
+384|||○|||Khi đã uống thuốc gây buồn ngủ thì nên tránh lái xe.
+385|||×|||Vì cảm thấy mệt mỏi và buồn ngủ nên đã giảm tốc độ để lái xe.
+386|||○|||Trong phạm vi 5 mét từ giao lộ và mép của nó là khu vực cấm đỗ và dừng xe.
+387|||○|||Khi xe phía trước định vượt xe ô tô thì không được bắt đầu vượt.
+388|||×|||Có nước hoặc dầu rò rỉ từ động cơ nhưng vẫn lái xe bình thường.
+389|||×|||Dù có thể lái xe ngay nhưng nếu người lái xe tạm rời xe trong thời gian ngắn thì đó là đỗ xe.
+390|||×|||Biển báo này cho thấy phía trước là đường cụt.
+391|||○|||Khi có người đi bộ hoặc xe đạp chuẩn bị qua vạch qua đường cho người đi bộ hoặc làn đường xe đạp, phải dừng trước vạch qua đường hoặc vạch dừng và phải nhường đường cho họ.
+392|||×|||Đường này cấm xe hai bánh có động cơ nên xe gắn máy có thể đi.
+393|||○|||Việc sử dụng điện thoại di động khi đang lái xe bị cấm nghiêm ngặt và chỉ cần cầm lên là đã bị phạt.
+394|||○|||Đã vượt xe phía trước, sau khi giữ khoảng cách đủ, xác nhận an toàn rồi mới đi vào trước xe đã vượt.
+395|||×|||Dù xe phía trước định vượt xe ô tô cũng được phép bắt đầu vượt.
+396|||×|||Vì lái xe trong sương mù nguy hiểm nên đã chuyển đèn pha lên chế độ cao để cải thiện tầm nhìn.
+397|||○|||Khi mặt đường ướt, quãng đường dừng dài hơn nên cần chú ý.
+398|||×|||Khi xe hai bánh đi qua đường bùn, nên tăng tốc trước đó rồi đi qua một mạch.
+399|||×|||Dù có chuyện gì xảy ra, cũng không thể làm thủ tục gia hạn giấy phép lái xe ngoài thời hạn gia hạn.
+400|||○|||Trong phạm vi 5 mét từ lối lấy nước của bể chứa nước cứu hỏa, không được đỗ xe nhưng được phép dừng xe.
+401|||×|||Trên đường nhựa, cuối cùng trời ngừng mưa là lúc dễ trượt nhất.
+402|||○|||Đoạn dốc xuống dốc đứng cấm vượt xe và phải giảm tốc độ.
+403|||×|||Khi không thể tránh nhau trên dốc, vì xe xuống dốc đang tăng tốc nên nguy hiểm, xe lên dốc nhường đường.
+404|||○|||Trên đường có làn bên rộng hơn 0,75 mét, có thể đỗ xe bằng phương pháp như hình vẽ.
+405|||×|||Dù là vì tránh nguy hiểm bất đắc dĩ, cũng không được phép sử dụng còi ở khu dân cư yên tĩnh.
+406|||×|||Khi đang quay cua trên xe gắn máy, nên đạp phanh càng nhiều càng tốt.
+407|||○|||Trong trường hợp có vạch trung tâm này, không thể lấn từ A sang B để vượt nhưng có thể lấn từ B sang A để vượt.
+408|||×|||Ban đêm khi đang bật đèn pha chạy, dù có xe đối diện đến mà đột ngột chuyển đèn pha xuống chế độ thấp thì lại càng nguy hiểm.
+409|||○|||Vì sương mù dày đặc nên đã sử dụng còi vì lý do phòng ngừa nguy hiểm.
+410|||×|||Phát hiện ống xả bị hỏng nhưng không sửa ngay mà tiếp tục lái xe.
+411|||○|||Khi đầu bị va đập mạnh trong tai nạn giao thông, nên đi khám bác sĩ để phòng ngừa.
+412|||×|||Đường sắt vừa mới ngay sau khi rào chắn nâng lên nên xe lửa không thể đến đột ngột, đã đi qua mà không xác nhận an toàn.
+413|||×|||Khi xe phía sau định vượt, dù không đủ chỗ để xe đó vượt cũng không cần nhường đường.
+414|||○|||Gần đỉnh dốc lên không được phép vượt xe.
+415|||×|||Ở giao lộ này, xe A không được phép cản trở xe B đang đi.
+416|||○|||Khi có biển chỉ dẫn này, có thể đi dọc theo phía bên phải trong khi chú ý xe đối diện.
+417|||×|||Khi lái xe ban đêm, đèn tín hiệu đối diện ở giao lộ là tín hiệu vàng nhấp nháy nên đã dừng lại một lần.
+418|||○|||Dù là đường một chiều, nếu an toàn thì được phép vượt xe.
+419|||○|||Trên đường có biển báo này, cần chú ý gió ngang và nắm chắc cần lái để không bị cuốn.
+420|||×|||Xe rẽ phải hay rẽ trái ở giao lộ không cần giảm tốc độ để đi qua.
+421|||○|||Không được chất hàng che khuất đèn xi nhan, đèn phanh v.v.
+422|||○|||Vì lốp xe đột nhiên bị nổ nên đã nắm chắc cần lái và đạp phanh từ từ từng chặp.
+423|||○|||Xe đỗ bất hợp pháp là nguyên nhân gây tai nạn giao thông, là rào cản lớn cho giao thông và đời sống xã hội.
+424|||○|||Tại nơi biển báo hay biển chỉ dẫn cấm băng qua hay quay đầu thì lùi xe không bị cấm.
+425|||×|||Biển báo này cho thấy xe đạp, xe gắn máy, xe hai bánh có động cơ không thể đi.
+426|||○|||Tại nơi có biển báo này, xe ô tô từ 11 chỗ trở lên không thể đi.
+427|||×|||Biển báo này cho thấy cấm vượt xe.
+428|||○|||Trên đường một chiều, có thể đi ở phía bên phải của đường.
+429|||○|||Không được sử dụng đường làm chỗ để xe thay cho nhà để xe.
+430|||○|||Khi động đất xảy ra và phải để xe lại để trú ẩn, nên dừng xe ở ngoài đường càng xa càng tốt.
+431|||○|||Biển báo này cho thấy có bùng binh.
+432|||×|||Khi lái xe ban đêm, vì tầm nhìn kém hơn ban ngày nên nên rút ngắn khoảng cách giữa các xe.
+433|||×|||Xe hai bánh có xe bên cạnh, khi tắt máy và đẩy đi bộ thì được coi là người đi bộ.
+434|||○|||Khi đến gần làn đường được phân luồng theo hướng đi, đã đổi sang làn đường mình sẽ đi từ trước.
+435|||×|||Trên đường tuyết, nên tránh đi theo vết bánh xe.
+436|||○|||Tại nơi có vạch trung tâm này, bị cấm lấn ra phần bên phải của đường để vượt xe.
+437|||×|||Biển báo này cho thấy cấm người đi bộ qua đường.
+438|||○|||Khi đang đi trên làn đường này, không được đổi làn dù là để rẽ phải.
+439|||×|||Có thể sử dụng đường làm chỗ để xe thay cho nhà để xe.
+440|||×|||Nếu không có người bị thương hay thiệt mạng trong tai nạn giao thông thì không cần báo cảnh sát.
+441|||×|||Biển báo này cho thấy đường giao nhau là đường đưa đón học sinh.
+442|||○|||Khi vượt xe bằng xe hai bánh, cũng đi ở phía bên phải của xe phía trước.
+443|||○|||Cả đoạn dốc lên dốc đứng và đoạn dốc xuống dốc đứng đều cấm đỗ và dừng xe.
+444|||○|||Cấm đỗ và dừng xe trong làn bên này.
+445|||×|||Biển báo này là biển cho phép rẽ trái.
+446|||○|||Ở giao lộ có phương pháp rẽ phải nhỏ được chỉ định cho xe gắn máy, xe gắn máy có thể rẽ phải theo tín hiệu mũi tên xanh.
+447|||○|||Xe về nguyên tắc không thể đi trong đường ray, nhưng có thể băng qua đường ray.
+448|||×|||Nếu dừng xe liên tục để chờ người thì đó là dừng xe.
+449|||○|||Phanh của xe gắn máy cần có độ rơ vừa phải.
+450|||×|||Biển chỉ dẫn này cho thấy cấm đỗ xe.
+451|||×|||Khi dừng ở vạch qua đường cho người đi bộ hay làn đường xe đạp, dù có vạch dừng phía trước cũng dừng trước vạch qua đường.
+452|||○|||Khi việc đó có thể gây cản trở giao thông khác thì dù luật không cấm cũng không được băng qua hay quay đầu.
+453|||○|||Nên trang bị bông gạc và garô trên xe hàng ngày để phòng ngừa tai nạn.
+454|||×|||Vì xe phía trước định đổi làn đường nên đã đạp phanh gấp để không cản trở xe đó.
+455|||×|||Khi đi qua chỗ có người đi bộ mà không thể giữ khoảng cách an toàn nhưng vẫn tiếp tục đi.
+456|||×|||Khi tránh nhau trên dốc, phía lên dốc có chỗ tránh xe nhưng vì lên dốc được ưu tiên nên đã không vào chỗ tránh mà tiếp tục đi.
+457|||×|||Trong phạm vi 3 mét từ lối ra vào bãi đỗ xe hay nhà để xe, đỗ xe bị cấm, nhưng nếu là người sử dụng hay người liên quan đến địa điểm đó thì được phép đỗ xe.
+458|||×|||Biển người mới lái là biển mà người thiếu tự tin khi lái xe và có giấy phép thường chưa đầy 1 năm nên dán.
+459|||○|||Khi có nguy cơ đâm trực diện, nếu bên ngoài đường an toàn thì có thể ra khỏi đường.
+460|||×|||Vì đèn pha xe đối diện chói mắt nên bất đắc dĩ đã nhắm mắt lái xe trong chốc lát.
+461|||×|||Xe hai bánh dễ bị ảnh hưởng bởi gió nên nên lái xe với tư thế cúi người về phía trước.
+462|||○|||Trong hầm, bất kể có làn đường hay không, cấm đỗ và dừng xe.
+463|||×|||Khi vượt xe, có thể tạm thời vượt quá giới hạn tốc độ tối đa.
+464|||○|||Lực ma sát, lực ly tâm v.v. là lực tự nhiên tác dụng khi chạy cũng tác dụng lên xe hai bánh.
+465|||○|||Trên đường thường không có biển báo hay biển chỉ dẫn quy định, tốc độ tối đa của xe gắn máy là 30 km/h.
+466|||○|||Không được cố tình ép hay chen vào xe có dán biểu tượng này.
+467|||×|||Vì đèn tín hiệu đối diện là tín hiệu vàng nên đã đi qua trong khi chú ý giao thông khác.
+468|||×|||Sau khi vượt xe xong nên ngay lập tức đi vào trước xe đã vượt.
+469|||×|||Sắp đâm trực diện với xe đối diện nhưng không thể làm gì nên đành chấp nhận.
+470|||○|||Khi tránh nhau trên đường núi, xe xuống dốc nhường đường cho xe lên dốc.
+471|||○|||Đèn tín hiệu phía trước là đỏ nhưng tín hiệu mũi tên xanh sáng nên đã cho xe gắn máy khởi hành.
+472|||×|||Khi đầu bị va đập mạnh trong tai nạn giao thông, nếu không có vết thương ngoài đáng kể thì không cần đi khám bác sĩ.
+473|||×|||Tốc độ tối đa của xe gắn máy là 40 km/h.
+474|||○|||Xe không được phép đi ngược chiều dù là quãng đường ngắn.
+475|||×|||Tín hiệu xi nhan rẽ phải hay rẽ trái thực hiện ngay trước khi làm hành động đó.
+476|||×|||Chỉ khi đi trên đường sáng do đèn đường vào ban đêm mới được phép không bật đèn pha.
+477|||×|||Khi gặp động đất lớn khi đang lái xe trong thành phố, đã dừng xe sát mép bên trái của đường, khóa cần lái và trú ẩn.
+478|||×|||Biển chỉ dẫn này cho thấy đường dành cho xe đạp.
+479|||○|||Xe làm cản trở xe phía sau vì tùy ý đổi làn đường khi đi, không chỉ gây phiền mà còn là nguyên nhân gây tai nạn nên tốt nhất nên đi cùng một làn đường.
+480|||×|||Đã thương lượng với bên tai nạn giao thông nhưng không đạt được thỏa thuận nên đã báo cảnh sát.
+481|||○|||Xe buýt tuyến đang dừng có tín hiệu khởi hành nên đã dừng lại phía sau một lần và nhường đường cho xe buýt.
+482|||○|||Tín hiệu xi nhan khi đổi làn đường thực hiện khoảng 3 giây trước khi đổi làn.
+483|||×|||Quãng đường từ khi phanh bắt đầu ăn đến khi xe dừng được gọi là quãng đường dừng.
+484|||×|||Ở giao lộ này, xe gắn máy không được phép cản trở xe điện.
+485|||×|||Khi gây tai nạn giao thông, điều quan trọng nhất là liên hệ cảnh sát trước.
+486|||×|||Xe gắn máy không thể sử dụng phanh động cơ.
+487|||×|||Trên đường có bề rộng phần bên trái dưới 6 mét, dù tầm nhìn tốt cũng không thể lấn sang phần bên phải để vượt xe khác.
+488|||○|||Vì phanh trước và phanh sau bị hỏng nên đã cố gắng dừng xe bằng phanh động cơ.
+489|||×|||Nếu tự tin khi lái xe thì không cần mua bảo hiểm bắt buộc.
+490|||○|||Khi chạy với tốc độ cao, xe có trọng tâm hàng hóa thấp hơn thì có thể chạy ổn định hơn.
+491|||○|||Trên đường không có làn đường, về nguyên tắc xe gắn máy đi sát bên trái của đường.
+492|||○|||Có biển báo giới hạn tốc độ tối thiểu nhưng không có biển chỉ dẫn giới hạn tốc độ tối thiểu.
+493|||○|||Kiểm tra hàng ngày xe gắn máy được thực hiện theo tình trạng sử dụng.
+494|||×|||Nếu đã giảm tốc độ khi đi qua thì trách nhiệm về việc bắn bùn hay nước lên người đi bộ không thuộc về người lái xe.
+495|||×|||Biển chỉ dẫn này cho thấy đường ưu tiên phía trước.
+496|||○|||Các biển báo này có cùng ý nghĩa.
+497|||○|||Biển báo này cho thấy kết thúc quy định giao thông mà biển báo đó biểu thị.
+498|||×|||Trên đường một chiều, vượt xe bị cấm.
+499|||○|||Khi vào đường cua, nên giảm tốc độ chắc chắn trước khi vào đường cua đó.
+500|||○|||Ban đêm nên giảm tốc độ hơn so với ban ngày để lái xe.
+501|||×|||Việc đuổi kịp hay vượt xe có dán biển người mới bị cấm.
+502|||○|||Khi làm bắn bùn hay nước lên người đi bộ, dù đã giảm tốc độ thì trách nhiệm vẫn thuộc về người lái xe.
+503|||×|||Dù có thể gây cản trở giao thông khác, nếu luật không cấm thì được phép băng qua hay quay đầu.
+504|||×|||Khi qua vạch qua đường, không rõ có người qua đường hay không nhưng vẫn tiếp tục đi với tốc độ đó.
+505|||○|||Đang đi trên đường một chiều, ở nơi không gần giao lộ mà xe ưu tiên đến từ phía sau, nếu đi sát bên trái có thể cản trở xe ưu tiên nên đã đi sát bên phải để nhường đường.
+506|||×|||Khi rẽ phải ở giao lộ, về nguyên tắc đi chậm dọc theo phía ngoài gần giữa giao lộ.
+507|||×|||Đang đi trong giao lộ mà xe ưu tiên đến từ phía sau nên đã dừng ngay tại chỗ.
+508|||×|||Khi lái xe trên đường tuyết, vì quãng đường dừng dài hơn nên nên tăng tốc độ hơn so với đường khô.
+509|||×|||Vì xe đạp đang qua làn đường xe đạp nên đã giảm tốc độ và cẩn thận đi qua.
+510|||○|||Tín hiệu xi nhan rẽ phải thực hiện 30 mét trước điểm muốn thực hiện hành động đó.
+511|||○|||Khi xác nhận an toàn qua đường sắt, không chỉ dựa vào thị giác mà còn phải sử dụng thính giác.
+512|||×|||Biển chỉ dẫn này cho thấy phần cấm xe đi qua.
+513|||×|||Ngày mưa, đạp phanh thì xe trượt nên nghĩ phanh kém và đạp mạnh lại.
+514|||×|||Khi xe gắn máy thực hiện rẽ phải hai giai đoạn, để tránh gây nhầm lẫn cho xung quanh không được phép bật xi nhan rẽ phải.
+515|||×|||Đã đi qua chỗ có người đi bộ dắt chó dẫn đường nên đã bấm còi để báo hiệu.
+516|||○|||Xích của xe gắn máy nên hơi chùng một chút.
+517|||×|||Trên đường, về nguyên tắc, không được đỗ xe cùng một chỗ liên tục hơn 8 giờ vào ban ngày.
+518|||○|||Ngày mưa, tấm sắt trong công trường đặc biệt trơn trượt nên cần chú ý.
+519|||○|||Khi qua đường trên vỉa hè, không có người đi bộ và đã xác nhận an toàn nhưng đã dừng lại một lần rồi mới qua vỉa hè.
+520|||○|||Điểm quan trọng của lái xe an toàn là hiểu tính cách và thói quen của bản thân để bù đắp chúng khi lái xe.
+521|||○|||Biển số xe gắn máy nhất định phải được gắn.
+522|||×|||Tại nơi có biển báo này, có thể dừng xe nhưng không thể đỗ xe.
+523|||○|||Xe gắn máy không thể đi trên đường có biển báo này.
+524|||×|||Khi xe phía trước định vượt xe gắn máy thì không được phép vượt xe đó.
+525|||○|||Vượt xe gần đỉnh dốc lên có nguy cơ đâm với xe chiều ngược lại nên bị cấm.
+526|||○|||Biển báo này cho thấy có vạch qua đường cho người đi bộ và làn đường xe đạp.
+527|||×|||Tại bến không có khu an toàn mà xe điện đang dừng, khi không có người lên xuống cũng luôn phải giảm tốc độ để đi qua.
+528|||×|||Ở giao lộ có độ rộng đường tương tự như hình vẽ, xe thường có thể đi trước xe gắn máy.
+529|||○|||Giới hạn tốc độ và giới hạn tải trọng có tác dụng phòng chống ô nhiễm giao thông.
+530|||○|||Phải tuân theo tín hiệu bằng tay của cảnh sát giao thông và cả nhân viên tuần đường.
+531|||×|||Khi đang chạy xe gắn máy mà số vòng quay động cơ tăng cao không giảm nhưng vẫn tiếp tục chạy mà không quan tâm.
+532|||○|||Khi đi qua giao lộ có biển báo này, xe gắn máy có thể đi thẳng.
+533|||○|||Trên đường có biển báo này, không phải bản thân việc vượt xe mà bị cấm mà là hành vi lấn ra phần bên phải của đường để vượt xe bị cấm.
+534|||○|||Xe gắn máy thực hiện rẽ phải hai giai đoạn phải bật xi nhan rẽ phải cách giao lộ 30 mét.
+535|||○|||Khi đi qua chỗ có trẻ em đi một mình, đã giảm tốc độ để đi qua mà không dừng lại một lần.
+536|||×|||Tín hiệu giơ tay phải và hướng chéo xuống dưới cho thấy rẽ phải.
+537|||○|||Hành vi đổi làn, đi qua bên cạnh xe phía trước rồi đi ra phía trước là vượt xe chứ không phải đuổi kịp.
+538|||×|||Vì đèn tín hiệu phía trước là đỏ nên đã dừng lại rồi mới đi.
+539|||○|||Trên đường có 2 làn đường cùng hướng, đi ở làn đường bên trái.
+540|||×|||Khi xe hai bánh đi qua đường bùn, chuyển sang số cao nhất và cố gắng đi qua bằng quán tính.
+541|||×|||Khi gây tai nạn giao thông, để thuận lợi cho việc thương lượng dân sự, trước tiên hãy liên hệ công ty bảo hiểm.
+542|||×|||Vì không có dấu hiệu xe lửa đến nên đã giảm tốc độ để qua đường sắt mà không dừng lại một lần.
+543|||○|||Khi động đất xảy ra, đường bị chỉ định là khu vực cấm đi nên mất thời gian vì đường đông, đã di chuyển xe đến nơi ngoài khu vực đó.
+544|||○|||Khi vượt xe phía trước, vì cảm thấy nguy hiểm nên đã sử dụng còi.
+545|||○|||Việc quên tắt xi nhan gây hiểu nhầm cho xe khác và tăng nguy hiểm nên sau khi hành động kết thúc nên tắt ngay.
+546|||○|||Xe không được phép đi trong khi tùy ý đổi làn đường.
+547|||○|||Khi rẽ phải ở giao lộ có biển chỉ dẫn này, phải đi qua phần có mũi tên.
+548|||×|||Khi đến gần vạch qua đường, người qua đường nhận ra xe và dừng lại nên đã giảm tốc độ để đi qua.
+549|||○|||Khi vượt xe điện, về nguyên tắc đi ở phía bên trái của nó.
+550|||×|||Có thể rẽ phải từ làn đường có biển chỉ dẫn này.
+551|||×|||Xe gắn máy chạy chậm và an toàn nên được phép đi trên đường dành cho người đi bộ.
+552|||○|||Khi có thời gian quy định cho làn dành riêng cho xe buýt tuyến v.v. bằng biển chỉ dẫn hay biển báo, nếu không phải thời gian quy định thì xe thường cũng được phép đi qua.
+553|||×|||Khi tránh nhau với xe đối diện hay đi ngay phía sau xe khác, chuyển đèn pha lên chế độ cao.
+554|||×|||Khi bánh sau trượt sang phải thì quay cần lái sang trái.
+555|||×|||Trên đường có 3 làn đường cùng hướng, khi xe gắn máy đi nên chọn làn đường ít xe để đi.
+556|||○|||Khi cảnh sát giơ tay ngang lên, đối với giao thông song song có ý nghĩa tương đương tín hiệu xanh.
+557|||○|||Trong phạm vi 5 mét từ vị trí có biển báo cứu hỏa hay biểu tượng nguồn nước cứu hỏa được chỉ định, chỉ bị cấm đỗ xe.
+558|||○|||Khi vượt xe trên đường có tầm nhìn tốt với bề rộng phần bên trái dưới 6 mét, nếu vạch trung tâm không phải vạch vàng thì được phép lấn ra bên phải của vạch trung tâm.
+559|||×|||Xe gắn máy không cần gắn biển số.
+560|||○|||Khi bánh xe quay trơn trong bùn, dùng thảm hay chăn làm vật chắn trượt.
+561|||×|||Trong phạm vi 10 mét trước và sau đường sắt, đỗ xe bị cấm nhưng dừng xe không bị cấm.
+562|||○|||Ban đêm khi lái xe, bật đèn pha để lái xe.
+563|||○|||Khi đi qua chỗ có người đi bộ mà không thể giữ khoảng cách an toàn nên đã giảm tốc độ để đi qua.
+564|||○|||Tại nơi có biển báo này, xe gắn máy cũng không được phép đi qua.
+565|||○|||Khi đỗ và dừng xe trên đường thường có vỉa hè hoặc làn bên hẹp, đỗ và dừng xe dọc theo mép bên trái của đường xe chạy.
+566|||×|||Hiện tượng thủy lực là hiện tượng dễ xảy ra khi trời mưa và chạy với tốc độ thấp.
+567|||×|||Tín hiệu xi nhan rẽ phải thực hiện khoảng 3 giây trước khi rẽ.
+568|||×|||Ban đêm khi đi ngay phía sau xe khác, chuyển đèn lên chế độ cao để có thể rõ ràng xác nhận hành động của xe phía trước.
+569|||×|||Khi phía bên kia đường sắt đông đúc, để giúp xe phía sau, đi vào sớm.
+570|||×|||Đã uống rượu nhưng vì ít và tự tin khi lái xe nên đã lái xe.
+571|||×|||Chỉ được phép đỗ xe trong hầm có làn đường.
+572|||○|||Đoạn dốc xuống dốc đứng cấm vượt xe.
+573|||○|||Khi cảnh sát giơ hai tay thẳng lên, đối với giao thông song song về nguyên tắc phải dừng trước vạch dừng.
+574|||○|||Biển báo này cho thấy cấm quay đầu.
+575|||○|||Biển báo này cho thấy chỉ xe đạp được phép đi.
+576|||×|||Khi xe gắn máy rẽ phải, vì có nguy cơ đâm với xe đối diện nên nên tăng tốc độ để đi qua.
+577|||×|||Biển chỉ dẫn này cho thấy chỗ đỗ xe.
+578|||×|||Vì phía trước đường an toàn nên dù xe phía sau đã bắt đầu vượt cũng đã vượt xe phía trước.
+579|||×|||Biển báo này cho thấy cấm xe đi qua.
+580|||×|||Khi cảm thấy buồn ngủ khi đang lái xe, hãy nhai kẹo cao su, uống cà phê v.v. để tỉnh táo.
+581|||×|||Tại nơi có biển báo yêu cầu bấm còi, khi qua giao lộ có tầm nhìn kém, góc đường, đỉnh dốc lên phải sử dụng còi.
+582|||×|||Biển báo này cho thấy đường một chiều.
+583|||×|||Trên đường không có vỉa hè hay làn bên, xe gắn máy phải đi ở phần giữa đường.
+584|||×|||Tại nơi có biển báo yêu cầu bấm còi, nếu tầm nhìn kém và không xác nhận được an toàn thì bấm còi.
+585|||×|||Khi đạp phanh trên xe hai bánh, nếu cần lái không quay và bánh xe không nghiêng thì nên đạp phanh trước trước rồi mới đến phanh sau.
+586|||○|||Vì tín hiệu mũi tên xanh là mũi tên rẽ phải nên đã quay đầu.
+587|||○|||Xe thường vì tránh nguy hiểm bất đắc dĩ mà đã đi vào làn dành riêng cho xe buýt tuyến.
+588|||○|||Tín hiệu giơ tay phải ra cửa sổ và gập khuỷu tay thẳng đứng lên trên là tín hiệu rẽ trái.
+589|||○|||Xe hai bánh khi tắt máy và đẩy đi bộ thì được coi là người đi bộ.
+590|||○|||Dù chỉ có giấy phép thường loại một nhưng đã đưa taxi đi sửa chữa ở xưởng.
+591|||×|||Tại đường sắt có đèn tín hiệu, dù đèn tín hiệu là xanh xe cũng phải dừng lại một lần ngay trước đường sắt.
+592|||○|||Khi đi qua chỗ có người đi bộ, không nhất thiết phải giảm tốc độ.
+593|||×|||Lái xe khi mang theo giấy phép đã hết hiệu lực sẽ bị coi là vi phạm nghĩa vụ mang theo giấy phép.
+594|||×|||Vì xe gắn máy là phương tiện tiện lợi nên không cần học kỹ thuật lái xe đặc biệt.
+595|||×|||Vì lốp xe đột nhiên bị nổ nên đã nắm chắc cần lái và đạp phanh gấp.
+596|||○|||Tai nạn giao thông không chỉ ảnh hưởng đến người gây ra tai nạn mà còn gây thiệt hại kinh tế lớn và gánh nặng kinh tế cho gia đình.
+597|||×|||Khi xuống dốc mà phanh không ăn, hãy cố gắng đâm vào đất hay cát bên đường càng sớm càng tốt.
+598|||○|||Trên đường có biển chỉ dẫn này, xe không được phép chạy quá 30 km/h.
+599|||×|||Tại vị trí có biển báo này phải dừng lại một lần.
+600|||○|||Để vào cây xăng tiếp giáp với phía bên trái của đường, đã dừng lại một lần, xác nhận an toàn rồi mới qua vỉa hè.
+601|||○|||Trong phạm vi 30 mét trước đường sắt cấm vượt xe.
+602|||○|||Dù tự tin khi lái xe cũng phải tham gia bảo hiểm bắt buộc.
+603|||×|||Nội tuyến là khe hở của cần lái khi quay.
+604|||○|||Tín hiệu xi nhan rẽ phải hay rẽ trái phải duy trì cho đến khi hành động kết thúc.
+605|||○|||Khi đi qua bên cạnh khu an toàn mà có người đi bộ nên đã giảm tốc độ để đi qua.
+606|||○|||Khi cảnh sát giơ hai tay thẳng lên ở giao lộ, đối với giao thông theo hướng đối diện với cơ thể cảnh sát có ý nghĩa tương đương tín hiệu đỏ.
+607|||○|||Dừng xe 10 phút để người lên xuống là dừng xe.
+608|||○|||Ngày mưa nên giữ khoảng cách với xe phía trước khi lái xe.
+609|||○|||Thời điểm và phương pháp tín hiệu xi nhan quay đầu giống như khi rẽ phải.
+610|||×|||Nếu có giấy phép xe máy thì có thể lái xe hai bánh có động cơ.
+611|||○|||Khi ống xả bị hỏng, phải thay thế hoặc sửa chữa ngay.
+612|||○|||Tại nơi có biển báo này, cần hết sức chú ý trẻ em bất ngờ chạy ra.
+613|||○|||Sau khi được cấp lại giấy phép lái xe, tìm thấy giấy phép bị mất nên đã nộp lại ngay.
+614|||○|||Trên đường có biển chỉ dẫn này, nếu không vượt vạch vàng thì được phép vượt xe.
+615|||×|||Biển báo này cho thấy cấm xe có chiều cao vượt quá số được hiển thị trên biển báo đi qua.
+616|||×|||Nếu có giấy phép xe máy thì có thể lái xe hai bánh có dung tích xi lanh đến 150cc.
+617|||○|||Trên làn bên có biển chỉ dẫn này, xe không thể vào trong để đỗ hay dừng xe.
+618|||○|||Biển báo này cho thấy có giao thông hợp nhất.
+619|||○|||Khi xe phía trước rẽ trái, do nội tuyến nên xe gắn máy thường bị cuốn theo nên cần chú ý.
+620|||○|||Kỹ thuật lái xe bốn bánh và kỹ thuật lái xe gắn máy là khác nhau.
+621|||○|||Trên đường thường, sau khi vượt xe phía trước bằng xe gắn máy rồi đổi làn sang trái, nên tiếp tục đi cho đến khi xe đã vượt xuất hiện trong gương chiếu hậu rồi mới đổi làn.
+622|||×|||Xe ưu tiên định đi vào làn xe chính nhưng đã cản trở xe đó.
+623|||×|||Quãng đường phanh sẽ gấp đôi khi tốc độ tăng gấp đôi.
+624|||○|||Đèn tín hiệu phía trước là xanh nhưng đã khởi hành sau khi xác nhận an toàn.
+625|||×|||Khi đi qua bên cạnh xe buýt đưa đón trẻ em đang dừng để lên xuống, phải dừng lại một lần.
+626|||○|||Trên đường có vỉa hè, đã đỗ xe dọc theo mép đường xe chạy.
+627|||×|||Để tránh kẹt xe trên đường, nên thường xuyên đổi làn đường để đi.
+628|||○|||Gần góc đường là nơi cấm vượt xe và cũng phải giảm tốc độ.
+629|||×|||Biển báo này cho thấy là đường đưa đón học sinh, có nhiều trẻ em đi lại nên cần chú ý.
+630|||○|||Xe gắn máy không được phép đi trên làn bên ngay cả khi không có người đi bộ.
+631|||×|||Khi đi qua giao lộ có biển báo này, chỉ xe gắn máy được phép rẽ phải.
+632|||○|||Ngoại trừ khi xe mình đi trên đường ưu tiên, trong phạm vi 30 mét trước giao lộ không được vượt xe phía trước.
+633|||×|||Tại nơi có biển báo này, xe hai bánh không được phép đi qua.
+634|||×|||Khi qua đường sắt, theo nguyên tắc giữ bên trái, đi càng sát bên trái càng tốt.
+635|||○|||Xe đang chạy 20 km/h trên đường nhựa khô ráo cần giữ khoảng cách hơn 10 mét giữa các xe.
+636|||○|||Giới hạn chiều cao hàng hóa có thể chở trên xe hai bánh có động cơ hay xe gắn máy là 2 mét tính từ mặt đất.
+637|||○|||Vì xuất hiện chỉ báo giới hạn ma sát trên lốp nên đã thay lốp.
+638|||×|||Khi lái xe, để phát hiện vật cản phía trước sớm hơn, nên tập trung nhìn vào một điểm.
+639|||×|||Tổng của quãng đường phanh và quãng đường dừng là quãng đường phản ứng.
+640|||×|||Để lái xe an toàn, đặc biệt không cần biết tính cách hay thói quen của bản thân, chỉ cần học luật giao thông là đủ.
+641|||×|||Vạch trung tâm nhất thiết được đặt ở giữa đường.
+642|||×|||Biển báo này cho thấy tốc độ tối đa của xe ô tô và xe gắn máy là 50 km/h.
+643|||×|||Khi có người đang lên xuống xe điện đang dừng ở bến có khu an toàn, xe phải dừng phía sau một lần.
+644|||×|||Vì cả phanh trước và phanh sau đều hỏng nên đã từ bỏ việc dừng xe và chấp nhận số phận.
+645|||×|||Xe gắn máy không được phép chở hàng nhô ra sau thùng xe.
+646|||×|||Biển báo này cho thấy có nguy cơ sạt lở.
+647|||×|||Quên mang theo giấy phép lái xe mà lái xe thì bị coi là lái xe không có giấy phép.
+648|||×|||Biển chỉ dẫn này cho thấy từ đây cấm quay đầu.
+649|||○|||Trên đường tuyết, đi theo vết bánh xe an toàn hơn.
+650|||○|||Đã giảm tốc độ để đi qua bên cạnh xe buýt đưa đón học sinh đang dừng để lên xuống.
+651|||×|||Đường có biển báo này, dù là xe gắn máy cũng có thể đi qua.
+652|||○|||Biển báo này cho thấy có khu an toàn.
+653|||×|||Khi lái xe ban đêm đã lái xe mà không bật đèn pha.
+654|||×|||Trên đường có 3 làn đường cùng hướng, khi xe gắn máy đi nên để trống làn ngoài cùng bên trái cho xe nhẹ và đi ở làn bên phải càng tốt.
+655|||○|||Hỏng phanh nguy hiểm hơn hỏng động cơ nên cần sửa chữa ngay.
+656|||×|||Khi vượt xe bằng xe hai bánh, đi ở phía bên trái của xe phía trước.
+657|||×|||Biển báo này cấm bản thân việc vượt xe.
+658|||×|||Khi đi qua bên cạnh khu an toàn, bất kể có người đi bộ hay không cũng phải dừng lại một lần và giảm tốc độ để đi qua.
+659|||×|||Biển báo này cho thấy cấm chở hai người trên xe gắn máy.
+660|||○|||Khi ngồi trên xe hai bánh, nên mặc trang phục sáng màu để người lái xe bốn bánh dễ nhận biết.
+661|||○|||Khi rẽ trái ở giao lộ, cần đặc biệt chú ý xe đạp và người đi bộ đi ở phía bên trái.
+662|||○|||Đã đi qua chỗ có người cầm gậy trắng nên đã giảm tốc độ để không cản trở việc đi qua.
+663|||×|||Vì xe đối diện có nghĩa vụ nhường đường cho mình nên đã đi mà không quan tâm đến xe đó.
+664|||○|||Khi có nguy cơ dừng lại giữa vạch qua đường do tình hình giao thông phía trước, không được đi vào vạch qua đường.
+665|||×|||Cấm vượt hay đuổi kịp xe có dán biển người mới lái hay biển người cao tuổi.
+666|||○|||Khi dừng ở vạch qua đường cho người đi bộ hay làn đường xe đạp, nếu có vạch dừng phía trước thì dừng ở đó.
+667|||○|||Khi dừng xe gắn máy vì tín hiệu đèn, giữ thăng bằng bằng chân và nắm chắc cần phanh.
+668|||○|||Nếu không có người trong khu an toàn thì khi đi qua bên cạnh không cần giảm tốc độ.
+669|||○|||Khi đâm vào tường bê tông với tốc độ 60 km/h, lực tác dụng tương đương với lực khi rơi từ độ cao khoảng 14 mét.
+670|||×|||Khi giảm tốc độ một nửa, lực va chạm sẽ giảm khoảng một nửa.
+671|||○|||Trang phục khi lái xe hai bánh, để giảm thiểu thương tích khi ngã, nên mặc trang phục ít hở người.
+672|||○|||Khi cảnh sát giơ tay ngang ra, đối với giao thông đối diện có ý nghĩa tương đương tín hiệu đỏ.
+673|||○|||Ngoại trừ khi bất đắc dĩ, không được phép đi straddle hai làn đường.
+674|||×|||Khi làm bắn bùn hay nước lên người đi bộ, nếu đã giảm tốc độ thì đặc biệt không có trách nhiệm của người lái xe.
+675|||○|||Vì có người trong khu an toàn nên đã giảm tốc độ để đi qua bên cạnh.
+676|||×|||Khi vượt xe phía trước, để tránh đâm trực diện với xe đối diện, bất đắc dĩ đã đi với khoảng cách bên hẹp với xe đối diện.
+677|||○|||Biển báo này cho thấy có đường sắt ở gần.
+678|||×|||Trên đường không có đèn tín hiệu, ở giao lộ có độ rộng tương tự, không được cản trở giao thông từ bên phải.
+679|||○|||Số người được phép chở trên xe gắn máy chỉ là 1 người lái xe.
+680|||×|||Ngày mưa đạp phanh thì xe trượt nên đã đạp phanh mạnh hơn.
+681|||×|||Khi lái xe đường dài, thay vì lập kế hoạch chi tiết, cần ứng phó linh hoạt theo tình huống.
+682|||×|||Biểu tượng này cho thấy có người bị khiếm thính đang lái xe.
+683|||○|||Đã đi bằng xe gắn máy trên làn đường được chỉ định bởi biển báo này.
+684|||○|||Khi chở hàng trên xe gắn máy, phải cố định chắc chắn bằng dây thừng v.v.
+685|||×|||Xe gắn máy không thể vượt xe khác.
+686|||○|||Khi qua vạch qua đường, vì không rõ có người qua đường hay không nên đã giảm tốc độ để đi qua.
+687|||○|||Khi đổi làn đường, xác nhận an toàn từ trước rồi mới bật xi nhan.
+688|||○|||Khi quay cua trên xe gắn máy, nên giảm tốc độ từ trước, sau đó tăng tốc dần ở nửa sau của đường cua để ra khỏi cua.
+689|||×|||Biển báo này cho thấy có quy định giao thông được thực hiện phía trước.
+690|||×|||Từ biển báo này trở đi, xe gắn máy phải chạy không quá 50 km/h.
+691|||×|||Khi lái xe gắn máy, nếu thoải mái thì có thể nghiêng người.
+692|||○|||Khi cảnh sát giơ hai tay thẳng lên ở giao lộ, đối với giao thông theo hướng giao cắt với hướng song song với mặt trước của cơ thể cảnh sát có ý nghĩa tương đương tín hiệu đỏ.
+693|||×|||Để không gây nhầm lẫn cho xe khác, nên tiếp tục bật xi nhan sau khi hành động kết thúc.
+694|||○|||Làn bên này là nơi xe gắn máy không được phép đi.
+695|||○|||Khi rẽ phải ở giao lộ, khi có xe đối diện đi thẳng, dù đã vào giao lộ trước cũng phải nhường xe đi thẳng đi trước.
+696|||×|||Gần đỉnh dốc đứng cấm đỗ và dừng xe nhưng giữa dốc đứng không cấm đỗ và dừng xe.
+697|||×|||Xe thường không được phép đi vào làn dành riêng cho xe buýt tuyến dù là vì tránh nguy hiểm bất đắc dĩ.
+698|||○|||Vì đèn tín hiệu phía trước là đỏ nên đã dừng ở vị trí dừng.
+699|||×|||Biển người mới là biển mà người có giấy phép thường chưa đầy 1 năm nên hiển thị khi lái xe thường.
+700|||○|||Xe gắn máy xoay grip ga từ từ, giữ thăng bằng rồi khởi hành.
+701|||×|||Xe hai bánh không có nội tuyến nên khi rẽ phải hay rẽ trái không có nguy cơ cuốn người đi bộ hay xe đạp.
+702|||×|||Biển báo này cho thấy có trường học ở gần.
+703|||○|||Khi cứu người bị thương ở đầu, không nên di chuyển họ một cách tùy tiện.
+704|||×|||Phải kiểm tra xe gắn máy mỗi ngày.
+705|||×|||Xe gắn máy không được phép kéo xe kéo.
+706|||○|||Khi đang chạy mà suýt đâm với xe đối diện, nhưng quyết định không thể tránh bằng cách đánh lái gấp hay phanh gấp nên đã đi ra ngoài đường đến nơi an toàn.
+707|||×|||Trọng lượng hàng có thể chở trên thùng xe gắn máy được ghi trên giấy đăng ký xe.
+708|||×|||Khi xe gắn máy rẽ phải ở giao lộ, ngay cả trên đường có 2 làn trở xuống mà không có quy định bằng biển báo thì vẫn phải rẽ phải bằng hai giai đoạn.
+709|||×|||Khi vượt xe điện, về nguyên tắc đi ở phía bên phải của nó.
+710|||×|||Khi lái xe hai bánh, để dễ giữ thăng bằng nên mở hai đầu gối ra.
+711|||○|||Khi xe ưu tiên định đi vào hay đi ra khỏi làn xe chính, không được phép cản trở xe đó.
+712|||○|||Việc đỗ và dừng xe bất hợp pháp tạo ra điểm mù và là nguyên nhân gây tai nạn giao thông.
+713|||×|||Ban đêm khi lái xe trên đường thường, dù phía trước không nhìn rõ nhưng đã không bật đèn.
+714|||○|||Trên làn dành riêng cho xe buýt tuyến, xe gắn máy và xe nông nghiệp đặc biệt nhỏ có thể đi.
+715|||○|||Kể cả khi đi trên đường sáng do đèn đường vào ban đêm, cũng phải bật đèn pha.
+716|||○|||Trên làn bên có biển chỉ dẫn này, xe bị cấm đỗ và dừng, xe nhẹ cũng bị cấm đi.
+717|||○|||Trên đường nhựa, trời bắt đầu mưa là lúc dễ trượt nhất.
+718|||○|||Vì không có người đi bộ trong khu an toàn nên đã đi qua với tốc độ đó.
+719|||○|||Vì có biển báo này nên đã rẽ trái dù đèn tín hiệu đối diện là đỏ.
+720|||×|||Ban đêm trên đường trong thành phố có nhiều xe, vì có nhiều nơi nguy hiểm nên luôn chuyển đèn pha lên chế độ cao và nhìn rõ phía trước để đi qua.
+721|||○|||Đường có biển báo này, chỉ những xe được phép đặc biệt mới được phép đi.
+722|||×|||Xe gắn máy đang kéo xe kéo, chỉ khi tắt máy và đẩy đi bộ mới được phép đi trên đường dành cho người đi bộ.
+723|||×|||Giữa đoạn dốc lên dốc đứng không được phép vượt xe phía trước.
+724|||×|||Đã chở hàng cao 2 mét buộc chặt trên thùng xe gắn máy để chạy.
+725|||○|||Khi lái xe gắn máy nhất định phải đội mũ bảo hiểm.
+726|||○|||Khi đang đi xe gắn máy mà có công trình đường bộ phía trước nên bất đắc dĩ đã đi trong đường ray.
+727|||×|||Đỉnh dốc cấm đỗ và dừng xe nhưng chỉ khi dùng gác chắn bánh thì mới được phép đỗ và dừng.
+728|||×|||Khi đèn tín hiệu phía trước nhấp nháy màu vàng thì sau khi dừng lại một lần phải tiến vào.
+729|||×|||Khi đi qua góc đường, dù tầm nhìn tốt cũng đã đi qua mà không giảm tốc độ.
+730|||×|||Tại làn bên có biển chỉ dẫn này, về nguyên tắc không thể vào trong làn bên, nhưng chỉ khi làn bên rộng mới được phép đỗ và dừng bên trong.
+731|||×|||Trên đường có vỉa hè, đã đỗ xe lên vỉa hè.
+732|||×|||Vì xe khác đã nhường đường nên đã bấm còi để cảm ơn.
+733|||×|||Tín hiệu bằng tay của cảnh sát giống như tín hiệu xanh nhưng đèn tín hiệu đối diện là đỏ nên đã dừng.
+734|||○|||Dù đã ngắt côn tơ khi đang chạy mà xe không dừng ngay là vì xe có lực quán tính.
+735|||○|||Trên đường có biển chỉ dẫn này, dù là xe gắn máy cũng không được phép quay đầu.
+736|||○|||Khi lái xe trên đường tuyết, vì quãng đường dừng dài hơn nên nên lái xe với tốc độ thấp.
+737|||×|||Khi cảnh sát vẫy đèn theo hướng bắc-nam, xe chạy theo hướng đông-tây có thể đi thẳng.
+738|||×|||Đang đi trong giao lộ mà đèn tín hiệu phía trước chuyển sang vàng nên đã dừng tại chỗ.
+739|||○|||Khi đi qua đường cua hay góc đường, có thể cuốn người đi bộ hay xe đạp ở bên trong nên cần chú ý.
+740|||×|||Khi xe bị hỏng và không thể di chuyển trong đường sắt, nhanh chóng xuống xe và trú ẩn ở nơi an toàn.
+741|||×|||Khi chạy với tốc độ cao, xe có trọng tâm hàng hóa cao hơn thì có thể chạy ổn định hơn.
+742|||×|||Khi ngồi trên xe hai bánh, nên mặc trang phục đơn giản để không gây nhầm lẫn cho người lái xe bốn bánh.
+743|||○|||Trên đường không có đèn tín hiệu, ở giao lộ có độ rộng tương tự, không được cản trở xe định đi vào từ phía bên trái.
+744|||○|||Tổng của quãng đường phản ứng và quãng đường phanh là quãng đường dừng.
+745|||×|||Khi trời mưa vì tầm nhìn kém nên nên đi gần xe phía trước.
+746|||○|||Giảm tốc độ là lái xe với tốc độ có thể dừng ngay được.
