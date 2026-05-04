@@ -21,9 +21,44 @@ type View =
   | { mode: "results"; paper: ExamItem[] }
   | { mode: "review"; paper: ExamItem[] };
 
+/** Ảnh trong `public/images/` — URL chuẩn Next: `/images/...` */
 function imgSrc(name?: string) {
   if (!name) return null;
-  return `/images/${name}`;
+  return `/images/${encodeURIComponent(name)}`;
+}
+
+function IllustrationImage(props: {
+  file?: string;
+  className?: string;
+  imgClassName?: string;
+}) {
+  const { file, className, imgClassName } = props;
+  const src = imgSrc(file);
+  if (!src) {
+    return (
+      <div
+        className={`flex items-center justify-center bg-neutral-200 text-neutral-500 text-xs ${className ?? ""}`}
+      >
+        図
+      </div>
+    );
+  }
+  return (
+    <div
+      className={`overflow-hidden bg-neutral-100 border-2 border-amber-950/40 flex items-center justify-center ${className ?? ""}`}
+    >
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
+        src={src}
+        alt=""
+        className={imgClassName ?? "max-w-full max-h-full object-contain"}
+        onError={(e) => {
+          const el = e.target as HTMLImageElement;
+          el.style.display = "none";
+        }}
+      />
+    </div>
+  );
 }
 
 function MaruBatsuButtons(props: {
@@ -333,6 +368,13 @@ function ChapterView(props: { chapter: string; onBack: () => void }) {
 
       {cur.kind === "s" && (
         <div className="tile-card space-y-4 p-4">
+          {cur.q.image && (
+            <IllustrationImage
+              file={cur.q.image}
+              className="w-full max-h-48 rounded-lg shrink-0"
+              imgClassName="w-full h-full max-h-48 object-contain"
+            />
+          )}
           <p className="text-sm leading-relaxed font-medium text-neutral-900">
             {cur.q.text}
           </p>
@@ -408,28 +450,17 @@ function ScenarioPracticeBlock(props: {
     <div className="tile-card space-y-4 p-4">
       <p className="text-sm font-semibold text-neutral-900">{group.stem}</p>
       {group.subs.map((sub) => {
-        const src = imgSrc(sub.image);
         return (
           <div
             key={sub.partId}
             className="border-t border-amber-900/20 pt-3 space-y-2"
           >
             <div className="flex gap-3 items-start">
-              <div className="w-24 h-20 shrink-0 rounded bg-neutral-200 border-2 border-amber-900/40 overflow-hidden flex items-center justify-center text-[10px] text-neutral-500">
-                {src ? (
-                  // eslint-disable-next-line @next/next/no-img-element
-                  <img
-                    src={src}
-                    alt=""
-                    className="w-full h-full object-contain"
-                    onError={(e) => {
-                      (e.target as HTMLImageElement).style.display = "none";
-                    }}
-                  />
-                ) : (
-                  "図"
-                )}
-              </div>
+              <IllustrationImage
+                file={sub.image}
+                className="w-24 h-20 shrink-0 rounded"
+                imgClassName="w-full h-full object-contain"
+              />
               <p className="text-sm flex-1 text-neutral-900">
                 【{sub.subKey}】{sub.text}
               </p>
@@ -475,6 +506,13 @@ function ExamQuestionPanel(props: {
     return (
       <div className="tile-card p-4 space-y-4">
         <p className="text-xs text-red-900/70 font-bold">○×（一問一答）</p>
+        {q.image && (
+          <IllustrationImage
+            file={q.image}
+            className="w-full max-h-52 rounded-xl"
+            imgClassName="w-full max-h-52 object-contain"
+          />
+        )}
         <p className="text-sm leading-relaxed text-neutral-900 font-medium">
           {q.text}
         </p>
@@ -494,28 +532,17 @@ function ExamQuestionPanel(props: {
       </p>
       <p className="text-sm font-semibold text-neutral-900">{g.stem}</p>
       {g.subs.map((sub) => {
-        const src = imgSrc(sub.image);
         return (
           <div
             key={sub.partId}
             className="border-t-2 border-amber-800/30 pt-3 space-y-2"
           >
             <div className="flex gap-3 items-start">
-              <div className="w-28 h-24 shrink-0 rounded-lg bg-neutral-100 border-2 border-amber-950/50 overflow-hidden flex items-center justify-center text-neutral-400 text-xs">
-                {src ? (
-                  // eslint-disable-next-line @next/next/no-img-element
-                  <img
-                    src={src}
-                    alt=""
-                    className="max-w-full max-h-full object-contain"
-                    onError={(e) => {
-                      (e.target as HTMLImageElement).style.display = "none";
-                    }}
-                  />
-                ) : (
-                  "図"
-                )}
-              </div>
+              <IllustrationImage
+                file={sub.image}
+                className="w-28 h-24 shrink-0 rounded-lg"
+                imgClassName="max-w-full max-h-full object-contain"
+              />
               <p className="text-sm flex-1 text-neutral-900 leading-snug">
                 【{sub.subKey}】{sub.text}
               </p>
@@ -615,6 +642,13 @@ function ReviewView(props: {
             </p>
             {d.item.type === "simple" && d.simple && (
               <>
+                {d.item.question.image && (
+                  <IllustrationImage
+                    file={d.item.question.image}
+                    className="w-full max-h-40 rounded-lg"
+                    imgClassName="w-full max-h-40 object-contain"
+                  />
+                )}
                 <p className="text-neutral-900">{d.item.question.text}</p>
                 <p>
                   Bạn chọn:{" "}
@@ -646,9 +680,16 @@ function ReviewView(props: {
                           : "border-rose-400 bg-rose-50/80"
                       }`}
                     >
-                      <p className="text-neutral-900">
-                        【{sub.subKey}】{sub.text}
-                      </p>
+                      <div className="flex gap-2 items-start">
+                        <IllustrationImage
+                          file={sub.image}
+                          className="w-20 h-16 shrink-0 rounded"
+                          imgClassName="w-full h-full object-contain"
+                        />
+                        <p className="text-neutral-900 flex-1">
+                          【{sub.subKey}】{sub.text}
+                        </p>
+                      </div>
                       <p className="text-xs mt-1">
                         Bạn: <strong>{st?.user ?? "—"}</strong> · Đáp án:{" "}
                         <strong>{sub.answer}</strong>
