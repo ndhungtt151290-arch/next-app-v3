@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import bankRaw from "./data/questions.json";
@@ -21,6 +21,7 @@ const EXAM_SECONDS = 30 * 60;
  */
 const HOME = "/home";
 const HOME_BG = "/bgs/bgh.jpg";
+const PRACTICE_BG = "/bgs/Q9.png";
 const HOME_HERO = `${HOME}/s2.png`;
 const HOME_CTA_BADGE = `${HOME}/s3.png`;
 const HOME_TILE_ART = [`${HOME}/s4.png`, `${HOME}/s5.png`, `${HOME}/s6.png`];
@@ -124,10 +125,10 @@ function HomeScreen(props: {
   const { onStartExam, onChapter } = props;
 
   return (
-    <div className="relative mx-auto w-full max-w-[min(100%,26.5rem)] px-[14px]">
+    <div className="relative mx-auto w-full max-w-[430px] px-[14px]">
       <div
         className="relative rounded-[1.75rem] border-2 border-black/20 bg-white/20 px-4 pb-5 pt-4 shadow-[0_10px_40px_rgba(0,0,0,0.12)] backdrop-blur-[3px]"
-        style={{ marginTop: "4px", position: "relative", height: "844px", zIndex: 20 }}
+        style={{ marginTop: "4px", position: "relative", minHeight: "844px", zIndex: 20 }}
       >
         <div
           className="flex flex-col items-center gap-2 pb-1 pt-1"
@@ -278,37 +279,46 @@ export default function GentsukiApp() {
 
   return (
     <div
-      className={
-        isHome
-          ? "relative w-full min-h-[100dvh] min-h-[100svh] text-amber-950"
-          : "brick-bg min-h-screen text-amber-950 pb-10"
-      }
-      style={{ width: "390px" }}
+      className={`relative min-h-screen flex flex-col overflow-y-auto ${
+        isHome ? "text-amber-950" : "brick-bg text-amber-950"
+      }`}
+      style={{ width: "390px", maxWidth: "430px" }}
     >
-      {isHome && (
-        <>
-          <div
-            className="pointer-events-none absolute inset-0 z-0 bg-neutral-900 bg-cover bg-center bg-no-repeat"
-            style={{
-              backgroundImage: `url(${HOME_BG})`,
-              /* iPhone: phủ kín khung nhìn, giữ tỉ lệ ảnh */
-              backgroundSize: "cover",
-              backgroundPosition: "center center",
-            }}
-            aria-hidden
-          />
-          <div
-            className="pointer-events-none absolute inset-0 z-[1] bg-gradient-to-b from-black/10 via-transparent to-black/20"
-            aria-hidden
-          />
-        </>
+      {/* Fixed background image - không bị cuộn theo nội dung */}
+      {isHome ? (
+        <div
+          className="pointer-events-none fixed inset-0 z-0 bg-cover bg-center bg-no-repeat"
+          style={{
+            backgroundImage: `url(${HOME_BG})`,
+            backgroundAttachment: "fixed",
+          }}
+          aria-hidden
+        />
+      ) : (
+        <div
+          className="pointer-events-none fixed inset-0 z-0 bg-cover bg-center bg-no-repeat"
+          style={{
+            backgroundImage: `url(${PRACTICE_BG})`,
+            backgroundAttachment: "fixed",
+          }}
+          aria-hidden
+        />
       )}
       <div
-        className={`relative z-10 mx-auto max-w-lg ${
+        className="pointer-events-none absolute inset-0 z-[1] bg-gradient-to-b from-black/10 via-transparent to-black/20"
+        aria-hidden
+      />
+      <div
+        className={`relative z-10 mx-auto w-full ${
           isHome
             ? "px-0 pt-[max(0.75rem,env(safe-area-inset-top))] pb-[max(1.5rem,env(safe-area-inset-bottom))]"
             : "px-3 pb-10 pt-4"
         }`}
+        style={{
+          maxWidth: "430px",
+          paddingTop: isHome ? undefined : "max(1rem, env(safe-area-inset-top))",
+          paddingBottom: isHome ? undefined : "max(1.5rem, env(safe-area-inset-bottom))",
+        }}
       >
         {!isHome && (
           <header className="mb-6 text-center">
@@ -336,7 +346,7 @@ export default function GentsukiApp() {
         )}
 
         {view.mode === "exam" && currentItem && (
-          <div className="space-y-4">
+          <div className="space-y-4" style={{ paddingBottom: "env(safe-area-inset-bottom)" }}>
             <div className="flex items-center justify-between gap-2 flex-wrap bg-black/25 rounded-lg px-3 py-2 border border-amber-900/50">
               <button
                 type="button"
@@ -455,7 +465,7 @@ function ChapterView(props: { chapter: string; onBack: () => void }) {
   }
 
   return (
-    <div className="space-y-4">
+    <div className="space-y-4" style={{ paddingBottom: "env(safe-area-inset-bottom)" }}>
       <button
         type="button"
         onClick={onBack}
@@ -675,7 +685,7 @@ function ResultsView(props: {
   const { score, passScore, onReview, onHome, onRetry } = props;
   const wrong = score.details.filter((d) => d.points < 1);
   return (
-    <div className="space-y-5">
+    <div className="space-y-5" style={{ paddingBottom: "env(safe-area-inset-bottom)" }}>
       <div className="tile-card p-6 text-center space-y-2">
         <p className="text-sm text-neutral-700">Kết quả</p>
         <p className="text-4xl font-black text-neutral-900">
@@ -732,7 +742,7 @@ function ReviewView(props: {
   const { score, onBackResults, onHome } = props;
   const wrong = score.details.filter((d) => d.points < 1);
   return (
-    <div className="space-y-4">
+    <div className="space-y-4" style={{ paddingBottom: "env(safe-area-inset-bottom)" }}>
       <button
         type="button"
         onClick={onBackResults}
