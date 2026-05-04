@@ -1,5 +1,9 @@
-node_modules/
-build/
+node_modules
+.next
+out
+build
+.env*.local
+
 dist/
 coverage/
 .DS_Store
