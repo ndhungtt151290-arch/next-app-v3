@@ -14,6 +14,23 @@ const bank = bankRaw as unknown as QuestionBank;
 const PASS_SCORE = 45;
 const EXAM_SECONDS = 30 * 60;
 
+/**
+ * Chỉ dùng ảnh trong `public/home/` (s1…s6) cho màn home.
+ * Gợi ý: s1 = nền toàn màn hình, s2 = mascot trên, s3 = minh họa nút đỏ,
+ * s4–s6 = trang trí ô lưới (lặp theo chương).
+ */
+const HOME = "/home";
+const HOME_BG = "/bgs/bgh.jpg";
+const HOME_HERO = `${HOME}/s2.png`;
+const HOME_CTA_BADGE = `${HOME}/s3.png`;
+const HOME_TILE_ART = [`${HOME}/s4.png`, `${HOME}/s5.png`, `${HOME}/s6.png`];
+
+const RED = "#C02026";
+
+function homeTileArt(index: number): string {
+  return HOME_TILE_ART[index % HOME_TILE_ART.length]!;
+}
+
 type View =
   | { mode: "home" }
   | { mode: "chapter"; chapter: string }
@@ -99,6 +116,91 @@ function MaruBatsuButtons(props: {
   );
 }
 
+/** Màn home: chỉ asset `/home/s1…s6`, bố cục theo mock iPhone (card, CTA, lưới 2 cột). */
+function HomeScreen(props: {
+  onStartExam: () => void;
+  onChapter: (chapter: string) => void;
+}) {
+  const { onStartExam, onChapter } = props;
+
+  return (
+    <div className="relative mx-auto w-full max-w-[min(100%,26.5rem)] px-[14px]">
+      <div
+        className="relative rounded-[1.75rem] border-2 border-black/20 bg-white/20 px-4 pb-5 pt-4 shadow-[0_10px_40px_rgba(0,0,0,0.12)] backdrop-blur-[3px]"
+        style={{ marginTop: "4px", position: "relative", height: "844px", zIndex: 20 }}
+      >
+        <div
+          className="flex flex-col items-center gap-2 pb-1 pt-1"
+          style={{ width: "350px", position: "relative", display: "flex", flexFlow: "column" }}
+        >
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src="/home/s1.png"
+            alt=""
+            className="w-full max-w-[min(100%,320px)] object-contain"
+            style={{ width: "180px", textAlign: "left", position: "absolute", left: "81px", top: "63px" }}
+          />
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={HOME_HERO}
+            alt=""
+            className="h-[4.25rem] w-auto max-w-[min(88%,200px)] object-contain drop-shadow-md"
+            style={{ width: "478px", position: "absolute", left: "67px", top: "169px" }}
+          />
+        </div>
+
+        <button
+          type="button"
+          onClick={onStartExam}
+          className="mx-auto mt-5 block w-[92%] max-w-[22rem] transition active:scale-[0.98]"
+          style={{ position: "absolute", left: "8px", top: "258px" }}
+        >
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src="/home/s3.png"
+            alt="Bắt đầu thi thử"
+            className="w-full h-auto object-contain"
+            style={{ width: "fit-content", height: "fit-content", display: "flex", flexFlow: "wrap", textAlign: "center", position: "absolute", left: "19px", top: "-17px" }}
+          />
+        </button>
+
+        <div
+          className="grid grid-cols-2 gap-x-4 gap-y-4"
+          style={{ columnGap: "16px", rowGap: "12px", gap: "12px 16px", width: "325px", position: "absolute", left: "17px", top: "368px" }}
+        >
+          {CHAPTER_ORDER.map((ch) => {
+            return (
+              <button
+                key={ch}
+                type="button"
+                onClick={() => onChapter(ch)}
+                className="flex flex-col items-center justify-center gap-0.5 rounded-[1.35rem] border border-white/50 px-2 py-2 text-center transition active:scale-[0.98]"
+                style={{
+                  background: "linear-gradient(180deg, #f7f7f7 0%, #e6e6e6 100%)",
+                  boxShadow:
+                    "inset 2px 2px 5px rgba(255,255,255,0.85), inset -2px -3px 6px rgba(0,0,0,0.08), 3px 5px 12px rgba(0,0,0,0.14)",
+                  minHeight: "52px",
+                }}
+              >
+                <span className="line-clamp-2 text-[0.6rem] font-bold leading-tight text-neutral-900">
+                  {ch}
+                </span>
+                <span className="line-clamp-1 text-[0.52rem] font-semibold text-neutral-600">
+                  {chapterVietnamese(ch)}
+                </span>
+              </button>
+            );
+          })}
+        </div>
+
+        <p className="mt-5 text-center font-serif text-[0.58rem] font-semibold uppercase tracking-[0.2em] text-black/80" style={{ position: "absolute", left: "94px", top: "780px" }}>
+          CREATED BY DUYHUNG
+        </p>
+      </div>
+    </div>
+  );
+}
+
 export default function GentsukiApp() {
   const [view, setView] = useState<View>({ mode: "home" });
   const [examPaper, setExamPaper] = useState<ExamItem[]>([]);
@@ -172,53 +274,58 @@ export default function GentsukiApp() {
     }));
   };
 
+  const isHome = view.mode === "home";
+
   return (
-    <div className="brick-bg min-h-screen text-amber-950 pb-10">
-      <div className="max-w-lg mx-auto px-3 pt-4">
-        <header className="text-center mb-6">
-          <p className="text-amber-200/90 text-xs tracking-widest uppercase mb-1">
-            原付免許 · 50cc
-          </p>
-          <h1 className="text-2xl sm:text-3xl font-black text-amber-100 drop-shadow-md">
-            Thi thử bằng xe máy Nhật
-          </h1>
-        </header>
+    <div
+      className={
+        isHome
+          ? "relative w-full min-h-[100dvh] min-h-[100svh] text-amber-950"
+          : "brick-bg min-h-screen text-amber-950 pb-10"
+      }
+      style={{ width: "390px" }}
+    >
+      {isHome && (
+        <>
+          <div
+            className="pointer-events-none absolute inset-0 z-0 bg-neutral-900 bg-cover bg-center bg-no-repeat"
+            style={{
+              backgroundImage: `url(${HOME_BG})`,
+              /* iPhone: phủ kín khung nhìn, giữ tỉ lệ ảnh */
+              backgroundSize: "cover",
+              backgroundPosition: "center center",
+            }}
+            aria-hidden
+          />
+          <div
+            className="pointer-events-none absolute inset-0 z-[1] bg-gradient-to-b from-black/10 via-transparent to-black/20"
+            aria-hidden
+          />
+        </>
+      )}
+      <div
+        className={`relative z-10 mx-auto max-w-lg ${
+          isHome
+            ? "px-0 pt-[max(0.75rem,env(safe-area-inset-top))] pb-[max(1.5rem,env(safe-area-inset-bottom))]"
+            : "px-3 pb-10 pt-4"
+        }`}
+      >
+        {!isHome && (
+          <header className="mb-6 text-center">
+            <p className="mb-1 text-xs uppercase tracking-widest text-amber-200/90">
+              原付免許 · 50cc
+            </p>
+            <h1 className="text-2xl font-black text-amber-100 drop-shadow-md sm:text-3xl">
+              Thi thử bằng xe máy Nhật
+            </h1>
+          </header>
+        )}
 
         {view.mode === "home" && (
-          <div className="space-y-4">
-            <button
-              type="button"
-              onClick={startExam}
-              className="w-full tile-btn py-5 text-lg font-black text-amber-50 rounded-xl border-4 border-amber-950 shadow-xl"
-            >
-              Thi thử (48 câu · 30 phút)
-            </button>
-            <p className="text-center text-amber-100/85 text-sm px-2">
-              Đạt yêu cầu: từ <strong>{PASS_SCORE}/48</strong> trở lên. Ba câu
-              cuối là tình huống minh họa, mỗi câu gồm 3 ý — chỉ được 1 điểm
-              khi cả 3 ý đều đúng.
-            </p>
-            <h2 className="text-amber-100 font-bold text-sm mt-6 mb-2 px-1">
-              12 chương ôn lý thuyết
-            </h2>
-            <div className="grid grid-cols-2 gap-2">
-              {CHAPTER_ORDER.map((ch) => (
-                <button
-                  key={ch}
-                  type="button"
-                  onClick={() => setView({ mode: "chapter", chapter: ch })}
-                  className="tile-chapter text-left p-3 rounded-lg border-2 border-amber-900/80 bg-gradient-to-br from-orange-200/95 to-orange-300/90 shadow-md active:scale-[0.98] transition"
-                >
-                  <span className="block text-[11px] font-bold text-red-950 leading-tight">
-                    {ch}
-                  </span>
-                  <span className="block text-[10px] text-red-900/80 mt-1">
-                    {chapterVietnamese(ch)}
-                  </span>
-                </button>
-              ))}
-            </div>
-          </div>
+          <HomeScreen
+            onStartExam={startExam}
+            onChapter={(chapter) => setView({ mode: "chapter", chapter })}
+          />
         )}
 
         {view.mode === "chapter" && (
@@ -717,3 +824,5 @@ function ReviewView(props: {
     </div>
   );
 }
+
+
