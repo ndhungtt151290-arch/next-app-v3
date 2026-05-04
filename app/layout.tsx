@@ -20,7 +20,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="vi">
-      <body className="antialiased" style={{ width: "fit-content" }}>
+      <body
+        className="antialiased"
+        style={{ minHeight: "100dvh", width: "100%" }}
+      >
         {children}
       </body>
     </html>

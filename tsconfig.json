@@ -36,6 +36,11 @@
     ".next/dev/types/**/*.ts"
   ],
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "my-app",
+    "scripts",
+    "data_*.txt",
+    "metadata.json",
+    "next-env.d.ts"
   ]
 }
