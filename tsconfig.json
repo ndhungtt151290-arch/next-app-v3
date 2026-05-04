@@ -37,10 +37,8 @@
   ],
   "exclude": [
     "node_modules",
-    "my-app",
     "scripts",
     "data_*.txt",
-    "metadata.json",
-    "next-env.d.ts"
+    "metadata.json"
   ]
 }
