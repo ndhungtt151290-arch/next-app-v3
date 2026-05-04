@@ -86,7 +86,7 @@ function MaruBatsuButtons(props: {
 }) {
   const { disabled, value, onPick } = props;
   const base =
-    "min-w-[88px] py-3 rounded-lg font-bold text-2xl border-4 border-amber-950 shadow-md transition active:scale-95 disabled:opacity-40";
+    "min-w-[88px] py-3 rounded-lg font-bold text-2xl border-4 border-amber-950 shadow-md transition active:scale-95 active:opacity-70 disabled:opacity-40";
   return (
     <div className="flex gap-3 justify-center flex-wrap">
       <button
@@ -125,76 +125,83 @@ function HomeScreen(props: {
   const { onStartExam, onChapter } = props;
 
   return (
-    <div className="relative mx-auto w-full max-w-[430px] px-[14px]">
+    <div className="relative mx-auto w-full max-w-[430px] z-10">
       <div
-        className="relative rounded-[1.75rem] border-2 border-black/20 bg-white/20 px-4 pb-5 pt-4 shadow-[0_10px_40px_rgba(0,0,0,0.12)] backdrop-blur-[3px]"
-        style={{ marginTop: "4px", position: "relative", minHeight: "844px", zIndex: 20 }}
+        className="relative rounded-[1.75rem] border-2 border-black/20 bg-white/20 shadow-[0_10px_40px_rgba(0,0,0,0.12)] backdrop-blur-[3px] flex flex-col overflow-hidden"
+        style={{
+          height: "100dvh",
+          paddingTop: "max(0.75rem, env(safe-area-inset-top))",
+          paddingBottom: "max(0.75rem, env(safe-area-inset-bottom))",
+          paddingLeft: "max(0.875rem, env(safe-area-inset-left))",
+          paddingRight: "max(0.875rem, env(safe-area-inset-right))",
+          zIndex: 50,
+        }}
       >
-        <div
-          className="flex flex-col items-center gap-2 pb-1 pt-1"
-          style={{ width: "350px", position: "relative", display: "flex", flexFlow: "column" }}
-        >
-          {/* eslint-disable-next-line @next/next/no-img-element */}
+        {/* Header area: logo + mascot + red button — cố định, không cuộn */}
+        <div className="flex flex-col items-center shrink-0 relative z-[100]" style={{ width: "100%" }}>
+          {/* s1.png — logo nền */}
           <img
             src="/home/s1.png"
             alt=""
-            className="w-full max-w-[min(100%,320px)] object-contain"
-            style={{ width: "180px", textAlign: "left", position: "absolute", left: "81px", top: "63px" }}
+            className="w-full max-w-[280px] object-contain"
+            style={{ maxWidth: "280px", width: "180px" }}
           />
-          {/* eslint-disable-next-line @next/next/no-img-element */}
+          {/* s2.png — mascot */}
           <img
             src={HOME_HERO}
             alt=""
-            className="h-[4.25rem] w-auto max-w-[min(88%,200px)] object-contain drop-shadow-md"
-            style={{ width: "478px", position: "absolute", left: "67px", top: "169px" }}
+            className="h-[4.25rem] w-auto max-w-[200px] object-contain drop-shadow-md"
           />
+          {/* Nút Bắt đầu thi thử (s3.png) */}
+          <button
+            type="button"
+            onClick={onStartExam}
+            className="w-full max-w-[22rem] transition active:scale-[0.96] active:opacity-80 mt-1 relative z-[100] pointer-events-auto"
+            style={{ WebkitTapHighlightColor: "transparent" }}
+          >
+            <img
+              src="/home/s3.png"
+              alt="Bắt đầu thi thử"
+              className="w-full h-auto object-contain pointer-events-none"
+            />
+          </button>
         </div>
 
-        <button
-          type="button"
-          onClick={onStartExam}
-          className="mx-auto mt-5 block w-[92%] max-w-[22rem] transition active:scale-[0.98]"
-          style={{ position: "absolute", left: "8px", top: "258px" }}
-        >
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src="/home/s3.png"
-            alt="Bắt đầu thi thử"
-            className="w-full h-auto object-contain"
-            style={{ width: "fit-content", height: "fit-content", display: "flex", flexFlow: "wrap", textAlign: "center", position: "absolute", left: "19px", top: "-17px" }}
-          />
-        </button>
-
+        {/* Body area: danh sách 12 chương — cuộn được */}
         <div
-          className="grid grid-cols-2 gap-x-4 gap-y-4"
-          style={{ columnGap: "16px", rowGap: "12px", gap: "12px 16px", width: "325px", position: "absolute", left: "17px", top: "368px" }}
+          className="flex-1 overflow-y-auto mt-3 relative"
+          style={{ scrollbarWidth: "none", msOverflowStyle: "none", zIndex: 10 }}
         >
-          {CHAPTER_ORDER.map((ch) => {
-            return (
-              <button
-                key={ch}
-                type="button"
-                onClick={() => onChapter(ch)}
-                className="flex flex-col items-center justify-center gap-0.5 rounded-[1.35rem] border border-white/50 px-2 py-2 text-center transition active:scale-[0.98]"
-                style={{
-                  background: "linear-gradient(180deg, #f7f7f7 0%, #e6e6e6 100%)",
-                  boxShadow:
-                    "inset 2px 2px 5px rgba(255,255,255,0.85), inset -2px -3px 6px rgba(0,0,0,0.08), 3px 5px 12px rgba(0,0,0,0.14)",
-                  minHeight: "52px",
-                }}
-              >
-                <span className="line-clamp-2 text-[0.6rem] font-bold leading-tight text-neutral-900">
-                  {ch}
-                </span>
-                <span className="line-clamp-1 text-[0.52rem] font-semibold text-neutral-600">
-                  {chapterVietnamese(ch)}
-                </span>
-              </button>
-            );
-          })}
+          <style>{`.flex-1.overflow-y-auto::-webkit-scrollbar { display: none; }`}</style>
+          <div
+            className="grid grid-cols-2 gap-x-4 gap-y-3"
+            style={{ columnGap: "16px", rowGap: "12px", paddingBottom: "0.5rem" }}
+          >
+            {CHAPTER_ORDER.map((ch) => {
+              return (
+                <button
+                  key={ch}
+                  type="button"
+                  onClick={() => onChapter(ch)}
+                  className="flex flex-col items-center justify-center gap-0.5 rounded-[1.35rem] border border-white/50 px-2 py-2 text-center transition active:scale-[0.96] active:opacity-70"
+                  style={{
+                    background: "linear-gradient(180deg, #f7f7f7 0%, #e6e6e6 100%)",
+                    boxShadow:
+                      "inset 2px 2px 5px rgba(255,255,255,0.85), inset -2px -3px 6px rgba(0,0,0,0.08), 3px 5px 12px rgba(0,0,0,0.14)",
+                    minHeight: "52px",
+                  }}
+                >
+                  <span className="line-clamp-2 text-[0.65rem] font-bold leading-tight text-neutral-900 select-none">
+                    {chapterVietnamese(ch)}
+                  </span>
+                </button>
+              );
+            })}
+          </div>
         </div>
 
-        <p className="mt-5 text-center font-serif text-[0.58rem] font-semibold uppercase tracking-[0.2em] text-black/80" style={{ position: "absolute", left: "94px", top: "780px" }}>
+        {/* Footer credit */}
+        <p className="shrink-0 text-center font-serif text-[0.58rem] font-semibold uppercase tracking-[0.2em] text-black/80 pt-1 select-none relative z-[100]">
           CREATED BY DUYHUNG
         </p>
       </div>
@@ -290,7 +297,6 @@ export default function GentsukiApp() {
           className="pointer-events-none fixed inset-0 z-0 bg-cover bg-center bg-no-repeat"
           style={{
             backgroundImage: `url(${HOME_BG})`,
-            backgroundAttachment: "fixed",
           }}
           aria-hidden
         />
@@ -299,25 +305,21 @@ export default function GentsukiApp() {
           className="pointer-events-none fixed inset-0 z-0 bg-cover bg-center bg-no-repeat"
           style={{
             backgroundImage: `url(${PRACTICE_BG})`,
-            backgroundAttachment: "fixed",
           }}
           aria-hidden
         />
       )}
+      {/* Gradient overlay: pointer-events-none nên không che nút, nhưng đảm bảo z-index thấp */}
       <div
-        className="pointer-events-none absolute inset-0 z-[1] bg-gradient-to-b from-black/10 via-transparent to-black/20"
+        className="pointer-events-none absolute inset-0 z-[1] bg-gradient-to-b from-black/10 via-transparent to-black/20 select-none"
         aria-hidden
       />
       <div
-        className={`relative z-10 mx-auto w-full ${
-          isHome
-            ? "px-0 pt-[max(0.75rem,env(safe-area-inset-top))] pb-[max(1.5rem,env(safe-area-inset-bottom))]"
-            : "px-3 pb-10 pt-4"
-        }`}
+        className={`relative z-10 mx-auto w-full ${isHome ? "" : "px-3 pb-10 pt-4"}`}
         style={{
           maxWidth: "430px",
-          paddingTop: isHome ? undefined : "max(1rem, env(safe-area-inset-top))",
-          paddingBottom: isHome ? undefined : "max(1.5rem, env(safe-area-inset-bottom))",
+          paddingTop: isHome ? "0" : "max(1rem, env(safe-area-inset-top))",
+          paddingBottom: isHome ? "0" : "max(1.5rem, env(safe-area-inset-bottom))",
         }}
       >
         {!isHome && (
@@ -351,7 +353,7 @@ export default function GentsukiApp() {
               <button
                 type="button"
                 onClick={() => setView({ mode: "home" })}
-                className="text-amber-100 text-sm underline"
+                className="text-amber-100 text-sm underline active:opacity-70"
               >
                 Về trang chủ
               </button>
@@ -376,7 +378,7 @@ export default function GentsukiApp() {
                 type="button"
                 disabled={examIndex === 0}
                 onClick={() => setExamIndex((i) => Math.max(0, i - 1))}
-                className="flex-1 py-3 rounded-lg bg-amber-900/40 text-amber-50 border-2 border-amber-800 disabled:opacity-30"
+                className="flex-1 py-3 rounded-lg bg-amber-900/40 text-amber-50 border-2 border-amber-800 disabled:opacity-30 active:opacity-70 transition"
               >
                 ← Trước
               </button>
@@ -388,7 +390,7 @@ export default function GentsukiApp() {
                     Math.min(examPaper.length - 1, i + 1)
                   )
                 }
-                className="flex-1 py-3 rounded-lg bg-amber-900/40 text-amber-50 border-2 border-amber-800 disabled:opacity-30"
+                className="flex-1 py-3 rounded-lg bg-amber-900/40 text-amber-50 border-2 border-amber-800 disabled:opacity-30 active:opacity-70 transition"
               >
                 Sau →
               </button>
@@ -397,7 +399,7 @@ export default function GentsukiApp() {
             <button
               type="button"
               onClick={submitExam}
-              className="w-full py-4 rounded-xl font-black text-lg bg-gradient-to-b from-amber-400 to-amber-600 text-amber-950 border-4 border-amber-950 shadow-lg"
+              className="w-full py-4 rounded-xl font-black text-lg bg-gradient-to-b from-amber-400 to-amber-600 text-amber-950 border-4 border-amber-950 shadow-lg transition active:opacity-70"
             >
               Nộp bài
             </button>
@@ -455,7 +457,7 @@ function ChapterView(props: { chapter: string; onBack: () => void }) {
         <button
           type="button"
           onClick={onBack}
-          className="text-amber-200 underline"
+          className="text-amber-200 underline active:opacity-70 transition"
         >
           ← Quay lại
         </button>
@@ -469,7 +471,7 @@ function ChapterView(props: { chapter: string; onBack: () => void }) {
       <button
         type="button"
         onClick={onBack}
-        className="text-amber-200 text-sm underline"
+          className="text-amber-200 text-sm underline active:opacity-70 transition"
       >
         ← Trang chủ
       </button>
@@ -502,7 +504,7 @@ function ChapterView(props: { chapter: string; onBack: () => void }) {
           {ans[cur.q.id] && (
             <button
               type="button"
-              className="text-sm text-red-900 underline"
+              className="text-sm text-red-900 underline active:opacity-70 transition"
               onClick={() =>
                 setShow((s) => ({ ...s, [cur.q.id]: !s[cur.q.id] }))
               }
@@ -538,7 +540,7 @@ function ChapterView(props: { chapter: string; onBack: () => void }) {
           type="button"
           disabled={idx === 0}
           onClick={() => setIdx((x) => Math.max(0, x - 1))}
-          className="flex-1 py-2 rounded-lg bg-amber-900/40 text-amber-50 border border-amber-800 disabled:opacity-30"
+          className="flex-1 py-2 rounded-lg bg-amber-900/40 text-amber-50 border border-amber-800 disabled:opacity-30 active:opacity-70 transition"
         >
           ←
         </button>
@@ -546,7 +548,7 @@ function ChapterView(props: { chapter: string; onBack: () => void }) {
           type="button"
           disabled={idx >= total - 1}
           onClick={() => setIdx((x) => Math.min(total - 1, x + 1))}
-          className="flex-1 py-2 rounded-lg bg-amber-900/40 text-amber-50 border border-amber-800 disabled:opacity-30"
+          className="flex-1 py-2 rounded-lg bg-amber-900/40 text-amber-50 border border-amber-800 disabled:opacity-30 active:opacity-70 transition"
         >
           →
         </button>
@@ -589,7 +591,7 @@ function ScenarioPracticeBlock(props: {
             {values[sub.partId] && (
               <button
                 type="button"
-                className="text-xs text-red-900 underline"
+                className="text-xs text-red-900 underline active:opacity-70 transition"
                 onClick={() => onToggleExplain(sub.partId)}
               >
                 {show[sub.partId] ? "Ẩn" : "Đáp án"}
@@ -706,7 +708,7 @@ function ResultsView(props: {
         <button
           type="button"
           onClick={onReview}
-          className="w-full py-3 rounded-xl font-bold bg-amber-200 text-amber-950 border-2 border-amber-950"
+          className="w-full py-3 rounded-xl font-bold bg-amber-200 text-amber-950 border-2 border-amber-950 active:opacity-70 transition"
         >
           Giải thích &amp; xem lại {wrong.length} phần sai
         </button>
@@ -719,14 +721,14 @@ function ResultsView(props: {
       <button
         type="button"
         onClick={onRetry}
-        className="w-full py-3 rounded-xl font-bold bg-orange-300 text-amber-950 border-2 border-amber-950"
+          className="w-full py-3 rounded-xl font-bold bg-orange-300 text-amber-950 border-2 border-amber-950 active:opacity-70 transition"
       >
         Làm đề mới
       </button>
       <button
         type="button"
         onClick={onHome}
-        className="w-full text-amber-200 underline text-sm"
+        className="w-full text-amber-200 underline text-sm active:opacity-70 transition"
       >
         Về trang chủ
       </button>
@@ -746,7 +748,7 @@ function ReviewView(props: {
       <button
         type="button"
         onClick={onBackResults}
-        className="text-amber-200 text-sm underline"
+          className="text-amber-200 text-sm underline active:opacity-70 transition"
       >
         ← Kết quả
       </button>
@@ -827,7 +829,7 @@ function ReviewView(props: {
       <button
         type="button"
         onClick={onHome}
-        className="w-full py-3 rounded-xl font-bold bg-amber-900/50 text-amber-50 border border-amber-700"
+        className="w-full py-3 rounded-xl font-bold bg-amber-900/50 text-amber-50 border border-amber-700 active:opacity-70 transition"
       >
         Trang chủ
       </button>
