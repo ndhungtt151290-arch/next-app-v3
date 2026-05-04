@@ -39,6 +39,7 @@
     "node_modules",
     "scripts",
     "data_*.txt",
-    "metadata.json"
+    "metadata.json",
+    "my-app"
   ]
 }
