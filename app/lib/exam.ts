@@ -15,7 +15,8 @@ function shuffle<T>(arr: T[], rng: () => number = Math.random): T[] {
   return a;
 }
 
-/** 45 câu ○× ngẫu nhiên + 3 nhóm tình huống (危険予測), mỗi nhóm 3 ý — tối đa 48 điểm */
+/** 45 câu ○× ngẫu nhiên + 3 nhóm tình huống (危険予測), mỗi nhóm 3 ý — tối đa 48 điểm
+ *  Câu tình huống luôn ở CUỐI bài thi */
 export function buildMockExam(bank: QuestionBank): ExamItem[] {
   const pool = [...bank.simpleForExam];
   const picked = shuffle(pool).slice(0, 45);
@@ -28,7 +29,7 @@ export function buildMockExam(bank: QuestionBank): ExamItem[] {
     type: "scenario",
     group,
   }));
-  return [...simpleItems, ...scenItems];
+  return [...simpleItems, ...scenItems]; // simple → trước, scenario → sau cùng
 }
 
 export type SimpleAttempt = { correct: boolean; user?: MaruBatsu };
