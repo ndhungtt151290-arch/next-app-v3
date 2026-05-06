@@ -1,0 +1,26 @@
+// Batch 1 translations (already done by AI)
+// menkyogentsuki_gentsuki_9_7_1: 駆動輪の前に敷き、ぬかるみを脱する。
+// menkyogentsuki_gentsuki_9_7_2: 踏切とその前後10メートル以内の場所は、駐停車禁止である。
+// menkyogentsuki_gentsuki_9_7_3: 街路灯などで明るくても必ず前照灯はつけねばならない。
+// menkyogentsuki_gentsuki_9_7_4: 正しい。問題文の通り、安全地帯に歩行者がいなければ、徐行しなくてもよい。莫逆、歩行者がいる場合には、徐行せねばならない。
+// menkyogentsuki_gentsuki_9_7_5: 歩行者と安全な間隔が保てないときは、徐行して通行せねばならない。
+// menkyogentsuki_gentsuki_9_8_1: この標識は、自動者専用道路を示す。総排気量125cc以下の普通自動二輪車及び原動機付高知車の通行は禁止されている。
+// menkyogentsuki_gentsuki_9_8_2: 右左折の30メートル手前で合図を行う。
+// menkyogentsuki_gentsuki_9_8_3: onnerや幅の狭い路側帯の中に入って駐停車してはならない。
+// menkyogentsuki_gentsuki_9_8_4: ハイドロプレーニング現象は、雨天、高速で走行する際に起きやすい現象である。
+// menkyogentsuki_gentsuki_9_8_5: 右左折の合図は、その地点の30メートル手前で行う。約3秒前に行うのは、進路変更の合図である。
+// menkyogentsuki_gentsuki_9_9_1: 右折者は、直進車の進行を妨害してはならない。
+// menkyogentsuki_gentsuki_9_9_2: 合図を出し続けると混亂を招き、危険である。
+// menkyogentsuki_gentsuki_9_9_3: 前車の運転の妨げにならないよう、ライトを下向きにする。
+// menkyogentsuki_gentsuki_9_9_4: 路肩が崩れるおそれがあるためである。
+// menkyogentsuki_gentsuki_9_9_5: 踏切内で立ち往生する可能性があるため、進入してはならない。
+// menkyogentsuki_gentsuki_9_10_1: B車の車両通行帯が優先道路である。
+// menkyogentsuki_gentsuki_9_10_2: 体内にアルコール分が残っているので、運転してはならない。
+// menkyogentsuki_gentsuki_9_10_3: トンネル内では、車両通行帯の有無に関わらず駐停車禁止である。
+// menkyogentsuki_gentsuki_9_10_4: 加速がつき、危険だからである。
+// menkyogentsuki_gentsuki_9_10_5: 普通自動者は、通園・通学パスであっても、進路を譲らねばならない。
+// menkyogentsuki_gentsuki_9_11_1: 黄色の灯火信号と同じ意味なので、原則として停止線の前で停止する。
+// menkyogentsuki_gentsuki_9_11_2: 他に軽車両・許可された車も通行が可能である。
+// menkyogentsuki_gentsuki_9_11_3: 正しい。これは転回禁止の標識である。莫逆な��、学科試験で「転回禁止の標識があるところでは、後退も禁止されている」という問題が出題されることがある。転回禁止の標識には後退禁止の意味合いは含まれていないため、もしそんな問題が出た場合、答えは誤りを選ぼう。
+// menkyogentsuki_gentsuki_9_11_4: この標識は、自ソコン専用を示す。
+// menkyogentsuki_gentsuki_9_11_5: 対向車と安全な距離がとれないときは、対向車が通過するまで待つ。

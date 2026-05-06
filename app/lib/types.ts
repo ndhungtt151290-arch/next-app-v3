@@ -1,6 +1,7 @@
 export type MaruBatsu = "○" | "×";
 
 export type SimpleQuestion = {
+  kind: string;
   id: string;
   chapter: string;
   section: string;
@@ -8,6 +9,8 @@ export type SimpleQuestion = {
   answer: MaruBatsu;
   explanation: string;
   image?: string;
+  textVi?: string | null;
+  explanationVi?: string | null;
 };
 
 export type ScenarioSub = {
@@ -17,6 +20,8 @@ export type ScenarioSub = {
   explanation: string;
   image?: string;
   partId: string;
+  textVi?: string | null;
+  explanationVi?: string | null;
 };
 
 export type ScenarioGroup = {
@@ -24,6 +29,7 @@ export type ScenarioGroup = {
   chapter: string;
   section: string;
   stem: string;
+  stemVi?: string | null;
   subs: ScenarioSub[];
 };
 

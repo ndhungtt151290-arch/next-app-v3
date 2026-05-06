@@ -149,7 +149,7 @@ function MaruBatsuButtons(props: {
 }
 
 /* ──────────────── bilingual text helper ──────────────── */
-function tx<T extends string | undefined>(
+function tx<T extends string | null | undefined>(
   jp: T,
   vi: T,
   lang: Lang
