@@ -8,5 +8,6 @@ dist/
 coverage/
 .DS_Store
 *.log
+*.cjs
 .env*
 !.env.example
