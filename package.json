@@ -9,11 +9,17 @@
     "start": "next start -p 3000 -H 0.0.0.0",
     "lint": "next lint",
     "parse:data": "node scripts/parse-questions.mjs",
-    "verify:chapters": "node scripts/verify-chapters.mjs"
+    "verify:chapters": "node scripts/verify-chapters.mjs",
+    "merge:data": "node scripts/merge-translations.cjs",
+    "validate:data": "node scripts/validate-data.cjs",
+    "translate:batch": "node scripts/batch-translate.cjs"
   },
   "dependencies": {
     "@google/genai": "^1.29.0",
     "@vitalets/google-translate-api": "^9.2.1",
+    "framer-motion": "^12.38.0",
+    "howler": "^2.2.4",
+    "lucide-react": "^1.14.0",
     "next": "^16.2.4",
     "react": "^19.0.1",
     "react-dom": "^19.0.1"

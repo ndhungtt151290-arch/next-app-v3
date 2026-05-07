@@ -15,12 +15,14 @@ function shuffle<T>(arr: T[], rng: () => number = Math.random): T[] {
   return a;
 }
 
-/** 45 câu ○× ngẫu nhiên + 3 nhóm tình huống (危険予測), mỗi nhóm 3 ý — tối đa 48 điểm
- *  Câu tình huống luôn ở CUỐI bài thi */
+/** 46 câu ○× ngẫu nhiên (mỗi câu 1 điểm) + 2 nhóm tình huống (mỗi nhóm 2 điểm) — tổng 50 điểm
+ *  Câu tình huống luôn ở CUỐI bài thi.
+ *  Phần 1: 46 câu lý thuyết ○× — đúng 1 điểm, sai 0 điểm
+ *  Phần 2: 2 câu hình ảnh — đúng TẤT CẢ 3 ý nhỏ = 2 điểm, sai ≥1 ý = 0 điểm */
 export function buildMockExam(bank: QuestionBank): ExamItem[] {
   const pool = [...bank.simpleForExam];
-  const picked = shuffle(pool).slice(0, 45);
-  const scenarios = shuffle([...bank.dangerScenarioGroups]).slice(0, 3);
+  const picked = shuffle(pool).slice(0, 46);
+  const scenarios = shuffle([...bank.dangerScenarioGroups]).slice(0, 2);
   const simpleItems: ExamItem[] = picked.map((question) => ({
     type: "simple",
     question,
@@ -29,7 +31,7 @@ export function buildMockExam(bank: QuestionBank): ExamItem[] {
     type: "scenario",
     group,
   }));
-  return [...simpleItems, ...scenItems]; // simple → trước, scenario → sau cùng
+  return [...simpleItems, ...scenItems];
 }
 
 export type SimpleAttempt = { correct: boolean; user?: MaruBatsu };
@@ -54,7 +56,9 @@ export function scoreExam(
     scenario?: ScenarioAttempt;
   }>;
 } {
-  const max = 48;
+  const SIMPLE_PTS = 1;
+  const SCENARIO_PTS = 2;
+  const PASS_PTS = 45;
   let total = 0;
   const details: Array<{
     index: number;
@@ -69,11 +73,11 @@ export function scoreExam(
       const id = item.question.id;
       const user = simpleAns[id];
       const correct = user === item.question.answer;
-      if (correct) total += 1;
+      if (correct) total += SIMPLE_PTS;
       details.push({
         index,
         item,
-        points: correct ? 1 : 0,
+        points: correct ? SIMPLE_PTS : 0,
         simple: { correct, user },
       });
     } else {
@@ -87,24 +91,29 @@ export function scoreExam(
         perSub[sub.partId] = { user, correct: ok };
         if (!ok) allOk = false;
       }
-      if (allOk) total += 1;
+      if (allOk) total += SCENARIO_PTS;
       details.push({
         index,
         item,
-        points: allOk ? 1 : 0,
+        points: allOk ? SCENARIO_PTS : 0,
         scenario: { correct: allOk, subs: perSub },
       });
     }
   });
 
-  return { total, max, passed: total >= 45, details };
+  return { total, max: 50, passed: total >= PASS_PTS, details };
 }
 
+/** Lọc câu hỏi theo 1 hoặc nhiều chapter name (JP) */
 export function questionsForChapter(
   bank: QuestionBank,
-  chapter: string
+  chapterNames: string[]
 ): { simple: SimpleQuestion[]; scenarios: ScenarioGroup[] } {
-  const simple = bank.simple.filter((q) => q.chapter === chapter);
-  const scenarios = bank.scenarioGroups.filter((g) => g.chapter === chapter);
+  const set = new Set(chapterNames);
+  const simple = bank.simple.filter((q) => set.has(q.chapter));
+  const scenarios = [
+    ...bank.scenarioGroups.filter((g) => set.has(g.chapter)),
+    ...bank.dangerScenarioGroups.filter((g) => set.has(g.chapter)),
+  ];
   return { simple, scenarios };
 }
